@@ -1,0 +1,18 @@
+{
+    "name": "CRTX/ISOCountryPHP",
+    "description": "Library of countries that follow the ISO 3166 standard.",
+    "homepage": "https://github.com/CRTX/PHPCountryISO",
+    "license": "na",
+    "keywords": ["php", "countries", "country"],
+    "version": "0.1",
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.1",
+        "php-curl-class/php-curl-class": "~2.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
