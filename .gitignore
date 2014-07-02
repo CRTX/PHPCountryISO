@@ -1,1 +1,4 @@
+/bin
+/vendor
+/test
 /composer.phar
