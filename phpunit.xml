@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+    colors = "true"
+    convertWarningsToExceptions = "true"
+    >
+    <testsuite name="PHPCountryISO">
+        <directory>test/</directory>
+    </testsuite>
+    <logging>
+        <log type="coverage-text" target="php://stdout" showUncoveredFiles="true" />
+    </logging>
+</phpunit>
