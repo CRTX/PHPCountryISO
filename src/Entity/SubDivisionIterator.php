@@ -6,7 +6,7 @@ class SubDivisionIterator implements \Iterator
 {
     private $position = 0;
 
-    private $array = [];
+    private $subdivisions = [];
 
     public function __construct()
     {
@@ -18,28 +18,28 @@ class SubDivisionIterator implements \Iterator
         $this->position = 0;
     }
 
-    function current()
+    public function current()
     {
-        return $this->array[$this->position];
+        return $this->subdivision[$this->position];
     }
 
-    function key()
+    public function key()
     {
         return $this->position;
     }
 
-    function next()
+    public function next()
     {
         ++$this->position;
     }
 
-    function valid()
+    public function valid()
     {
-        return isset($this->array[$this->position]);
+        return isset($this->subdivision[$this->position]);
     }
 
     public function add(SubDivision $SubDivision)
     {
-        array_push($this->array, $SubDivision);
+        array_push($this->subdivision, $SubDivision);
     }
 }
