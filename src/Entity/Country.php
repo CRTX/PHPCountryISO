@@ -2,17 +2,10 @@
 
 namespace CRTX\CountryISO\Entity;
 
-class Country
+class Country extends AbstractPlace implements CountryInterface
 {
-    protected $subDivision;
-
-    public function addSubDivision(SubDivision $SubDivision)
+    public function add(AdministrativeDivision $AdministrativeDivision)
     {
-        $this->SubDivision->add($SubDivision);
-    }
-
-    public function getSubDivisions()
-    {
-        return $this->subDivisions;
+        array_push($this->place, $AdministrativeDivision);
     }
 }

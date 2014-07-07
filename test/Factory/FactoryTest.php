@@ -20,4 +20,18 @@ class FactoryTest extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals(key($array), 'Country');
     }
+
+    public function testInheritance()
+    {
+        $EntityFactory = new EntityFactory();
+        $Country = $EntityFactory->build('Country');
+        $AdministrativeDivision = $EntityFactory->build('AdministrativeDivision');
+        $Country->add($AdministrativeDivision);
+        foreach($Country as $Division) {
+            $this->assertInstanceOf(
+                'CRTX\\CountryISO\\Entity\\AdministrativeDivision',
+                $Division
+            );
+        }
+    }
 }
