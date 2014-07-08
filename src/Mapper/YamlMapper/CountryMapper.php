@@ -25,7 +25,7 @@ class CountryMapper extends AbstractYamlMapper
         foreach ($countryNameArray as $countryName => $countryParameterArray) {
             $this->Entity = new Country();
             $this->Entity->setName($countryName);
-            $this->Entity->setCode($countryParameterArray['Code']['ISO 3166-1 Alpha-2']);
+            $this->Entity->setCode($countryParameterArray['Code']);
             $this->mapDivision($countryParameterArray);
             array_push($this->mappedEntity, $this->Entity);
         }
