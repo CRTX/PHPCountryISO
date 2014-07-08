@@ -1099,6 +1099,27 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: AE
         AdministrativeDivision:
+            Abū Z̧aby [Abu Dhabi]:
+                Code:
+                    ISO 3166-2: AZ
+            "'Ajmān":
+                Code:
+                    ISO 3166-2: AJ
+            Al Fujayrah:
+                Code:
+                    ISO 3166-2: FU
+            Ash Shāriqah [Sharjah]:
+                Code:
+                    ISO 3166-2: SH
+            Dubayy [Dubai]:
+                Code:
+                    ISO 3166-2: DU
+            Ra’s al Khaymah:
+                Code:
+                    ISO 3166-2: RK
+            Umm al Qaywayn:
+                Code:
+                    ISO 3166-2: UQ
     United Kingdom:
         Code:
             ISO 3166-1 Alpha-2: GB
@@ -1107,6 +1128,177 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: US
         AdministrativeDivision:
+            Alabama:
+                Code:
+                    ISO 3166-2: AL
+            Alaska:
+                Code:
+                    ISO 3166-2: AK
+            Arizona:
+                Code:
+                    ISO 3166-2: AZ
+            Arkansas:
+                Code:
+                    ISO 3166-2: AR
+            California:
+                Code:
+                    ISO 3166-2: CA
+            Colorado:
+                Code:
+                    ISO 3166-2: CO
+            Connecticut:
+                Code:
+                    ISO 3166-2: CT
+            Delaware:
+                Code:
+                    ISO 3166-2: DE
+            Florida:
+                Code:
+                    ISO 3166-2: FL
+            Georgia:
+                Code:
+                    ISO 3166-2: GA
+            Hawaii:
+                Code:
+                    ISO 3166-2: HI
+            Idaho:
+                Code:
+                    ISO 3166-2: ID
+            Illinois:
+                Code:
+                    ISO 3166-2: IL
+            Indiana:
+                Code:
+                    ISO 3166-2: IN
+            Iowa:
+                Code:
+                    ISO 3166-2: IA
+            Kansas:
+                Code:
+                    ISO 3166-2: KS
+            Kentucky:
+                Code:
+                    ISO 3166-2: KY
+            Louisiana:
+                Code:
+                    ISO 3166-2: LA
+            Maine:
+                Code:
+                    ISO 3166-2: ME
+            Maryland:
+                Code:
+                    ISO 3166-2: MD
+            Massachusetts:
+                Code:
+                    ISO 3166-2: MA
+            Michigan:
+                Code:
+                    ISO 3166-2: MI
+            Minnesota:
+                Code:
+                    ISO 3166-2: MN
+            Mississippi:
+                Code:
+                    ISO 3166-2: MS
+            Missouri:
+                Code:
+                    ISO 3166-2: MO
+            Montana:
+                Code:
+                    ISO 3166-2: MT
+            Nebraska:
+                Code:
+                    ISO 3166-2: NE
+            Nevada:
+                Code:
+                    ISO 3166-2: NV
+            New Hampshire:
+                Code:
+                    ISO 3166-2: NH
+            New Jersey:
+                Code:
+                    ISO 3166-2: NJ
+            New Mexico:
+                Code:
+                    ISO 3166-2: NM
+            New York:
+                Code:
+                    ISO 3166-2: NY
+            North Carolina:
+                Code:
+                    ISO 3166-2: NC
+            North Dakota:
+                Code:
+                    ISO 3166-2: ND
+            Ohio:
+                Code:
+                    ISO 3166-2: OH
+            Oklahoma:
+                Code:
+                    ISO 3166-2: OK
+            Oregon:
+                Code:
+                    ISO 3166-2: OR
+            Pennsylvania:
+                Code:
+                    ISO 3166-2: PA
+            Rhode Island:
+                Code:
+                    ISO 3166-2: RI
+            South Carolina:
+                Code:
+                    ISO 3166-2: SC
+            South Dakota:
+                Code:
+                    ISO 3166-2: SD
+            Tennessee:
+                Code:
+                    ISO 3166-2: TN
+            Texas:
+                Code:
+                    ISO 3166-2: TX
+            Utah:
+                Code:
+                    ISO 3166-2: UT
+            Vermont:
+                Code:
+                    ISO 3166-2: VT
+            Virginia:
+                Code:
+                    ISO 3166-2: VA
+            Washington:
+                Code:
+                    ISO 3166-2: WA
+            West Virginia:
+                Code:
+                    ISO 3166-2: WV
+            Wisconsin:
+                Code:
+                    ISO 3166-2: WI
+            Wyoming:
+                Code:
+                    ISO 3166-2: WY
+            District of Columbia:
+                Code:
+                    ISO 3166-2: DC
+            American Samoa:
+                Code:
+                    ISO 3166-2: AS
+            Guam:
+                Code:
+                    ISO 3166-2: GU
+            Northern Mariana Islands:
+                Code:
+                    ISO 3166-2: MP
+            Puerto Rico:
+                Code:
+                    ISO 3166-2: PR
+            United States Minor Outlying Islands:
+                Code:
+                    ISO 3166-2: UM
+            Virgin Islands, U.S.:
+                Code:
+                    ISO 3166-2: VI
     United States Minor Outlying Islands:
         Code:
             ISO 3166-1 Alpha-2: UM
