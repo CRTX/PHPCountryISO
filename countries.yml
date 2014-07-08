@@ -570,6 +570,336 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: IT
         AdministrativeDivision:
+            Agrigento:
+                Code:
+                    ISO 3166-2: AG
+            Alessandria:
+                Code:
+                    ISO 3166-2: AL
+            Ancona:
+                Code:
+                    ISO 3166-2: AN
+            Aosta, Aoste (fr):
+                Code:
+                    ISO 3166-2: AO
+            Arezzo:
+                Code:
+                    ISO 3166-2: AR
+            Ascoli Piceno:
+                Code:
+                    ISO 3166-2: AP
+            Asti:
+                Code:
+                    ISO 3166-2: AT
+            Avellino:
+                Code:
+                    ISO 3166-2: AV
+            Bari:
+                Code:
+                    ISO 3166-2: BA
+            Barletta-Andria-Trani:
+                Code:
+                    ISO 3166-2: BT
+            Belluno:
+                Code:
+                    ISO 3166-2: BL
+            Benevento:
+                Code:
+                    ISO 3166-2: BN
+            Bergamo:
+                Code:
+                    ISO 3166-2: BG
+            Biella:
+                Code:
+                    ISO 3166-2: BI
+            Bologna:
+                Code:
+                    ISO 3166-2: BO
+            Bolzano, Bozen (de):
+                Code:
+                    ISO 3166-2: BZ
+            Brescia:
+                Code:
+                    ISO 3166-2: BS
+            Brindisi:
+                Code:
+                    ISO 3166-2: BR
+            Cagliari:
+                Code:
+                    ISO 3166-2: CA
+            Caltanissetta:
+                Code:
+                    ISO 3166-2: CL
+            Campobasso:
+                Code:
+                    ISO 3166-2: CB
+            Carbonia-Iglesias:
+                Code:
+                    ISO 3166-2: CI
+            Caserta:
+                Code:
+                    ISO 3166-2: CE
+            Catania:
+                Code:
+                    ISO 3166-2: CT
+            Catanzaro:
+                Code:
+                    ISO 3166-2: CZ
+            Chieti:
+                Code:
+                    ISO 3166-2: CH
+            Como:
+                Code:
+                    ISO 3166-2: CO
+            Cosenza:
+                Code:
+                    ISO 3166-2: CS
+            Cremona:
+                Code:
+                    ISO 3166-2: CR
+            Crotone:
+                Code:
+                    ISO 3166-2: KR
+            Cuneo:
+                Code:
+                    ISO 3166-2: CN
+            Enna:
+                Code:
+                    ISO 3166-2: EN
+            Fermo:
+                Code:
+                    ISO 3166-2: FM
+            Ferrara:
+                Code:
+                    ISO 3166-2: FE
+            Firenze:
+                Code:
+                    ISO 3166-2: FI
+            Foggia:
+                Code:
+                    ISO 3166-2: FG
+            Forlì-Cesena:
+                Code:
+                    ISO 3166-2: FC
+            Frosinone:
+                Code:
+                    ISO 3166-2: FR
+            Genova:
+                Code:
+                    ISO 3166-2: GE
+            Gorizia:
+                Code:
+                    ISO 3166-2: GO
+            Grosseto:
+                Code:
+                    ISO 3166-2: GR
+            Imperia:
+                Code:
+                    ISO 3166-2: IM
+            Isernia:
+                Code:
+                    ISO 3166-2: IS
+            La Spezia:
+                Code:
+                    ISO 3166-2: SP
+            L'Aquila:
+                Code:
+                    ISO 3166-2: AQ
+            Latina:
+                Code:
+                    ISO 3166-2: LT
+            Lecce:
+                Code:
+                    ISO 3166-2: LE
+            Lecco:
+                Code:
+                    ISO 3166-2: LC
+            Livorno:
+                Code:
+                    ISO 3166-2: LI
+            Lodi:
+                Code:
+                    ISO 3166-2: LO
+            Lucca:
+                Code:
+                    ISO 3166-2: LU
+            Macerata:
+                Code:
+                    ISO 3166-2: MC
+            Mantova:
+                Code:
+                    ISO 3166-2: MN
+            Massa-Carrara:
+                Code:
+                    ISO 3166-2: MS
+            Matera:
+                Code:
+                    ISO 3166-2: MT
+            Medio Campidano:
+                Code:
+                    ISO 3166-2: VS
+            Messina:
+                Code:
+                    ISO 3166-2: ME
+            Milano:
+                Code:
+                    ISO 3166-2: MI
+            Modena:
+                Code:
+                    ISO 3166-2: MO
+            Monza e Brianza:
+                Code:
+                    ISO 3166-2: MB
+            Napoli:
+                Code:
+                    ISO 3166-2: NA
+            Novara:
+                Code:
+                    ISO 3166-2: NO
+            Nuoro:
+                Code:
+                    ISO 3166-2: NU
+            Ogliastra:
+                Code:
+                    ISO 3166-2: OG
+            Olbia-Tempio:
+                Code:
+                    ISO 3166-2: OT
+            Oristano:
+                Code:
+                    ISO 3166-2: OR
+            Padova:
+                Code:
+                    ISO 3166-2: PD
+            Palermo:
+                Code:
+                    ISO 3166-2: PA
+            Parma:
+                Code:
+                    ISO 3166-2: PR
+            Pavia:
+                Code:
+                    ISO 3166-2: PV
+            Perugia:
+                Code:
+                    ISO 3166-2: PG
+            Pesaro e Urbino:
+                Code:
+                    ISO 3166-2: PU
+            Pescara:
+                Code:
+                    ISO 3166-2: PE
+            Piacenza:
+                Code:
+                    ISO 3166-2: PC
+            Pisa:
+                Code:
+                    ISO 3166-2: PI
+            Pistoia:
+                Code:
+                    ISO 3166-2: PT
+            Pordenone:
+                Code:
+                    ISO 3166-2: PN
+            Potenza:
+                Code:
+                    ISO 3166-2: PZ
+            Prato:
+                Code:
+                    ISO 3166-2: PO
+            Ragusa:
+                Code:
+                    ISO 3166-2: RG
+            Ravenna:
+                Code:
+                    ISO 3166-2: RA
+            Reggio Calabria:
+                Code:
+                    ISO 3166-2: RC
+            Reggio Emilia:
+                Code:
+                    ISO 3166-2: RE
+            Rieti:
+                Code:
+                    ISO 3166-2: RI
+            Rimini:
+                Code:
+                    ISO 3166-2: RN
+            Roma:
+                Code:
+                    ISO 3166-2: RM
+            Rovigo:
+                Code:
+                    ISO 3166-2: RO
+            Salerno:
+                Code:
+                    ISO 3166-2: SA
+            Sassari:
+                Code:
+                    ISO 3166-2: SS
+            Savona:
+                Code:
+                    ISO 3166-2: SV
+            Siena:
+                Code:
+                    ISO 3166-2: SI
+            Siracusa:
+                Code:
+                    ISO 3166-2: SR
+            Sondrio:
+                Code:
+                    ISO 3166-2: SO
+            Taranto:
+                Code:
+                    ISO 3166-2: TA
+            Teramo:
+                Code:
+                    ISO 3166-2: TE
+            Terni:
+                Code:
+                    ISO 3166-2: TR
+            Torino:
+                Code:
+                    ISO 3166-2: TO
+            Trapani:
+                Code:
+                    ISO 3166-2: TP
+            Trento:
+                Code:
+                    ISO 3166-2: TN
+            Treviso:
+                Code:
+                    ISO 3166-2: TV
+            Trieste:
+                Code:
+                    ISO 3166-2: TS
+            Udine:
+                Code:
+                    ISO 3166-2: UD
+            Varese:
+                Code:
+                    ISO 3166-2: VA
+            Venezia:
+                Code:
+                    ISO 3166-2: VE
+            Verbano-Cusio-Ossola:
+                Code:
+                    ISO 3166-2: VB
+            Vercelli:
+                Code:
+                    ISO 3166-2: VC
+            Verona:
+                Code:
+                    ISO 3166-2: VR
+            Vibo Valentia:
+                Code:
+                    ISO 3166-2: VV
+            Vicenza:
+                Code:
+                    ISO 3166-2: VI
+            Viterbo:
+                Code:
+                    ISO 3166-2: VT
     Jamaica:
         Code:
             ISO 3166-1 Alpha-2: JM
