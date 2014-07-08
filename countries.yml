@@ -3,40 +3,74 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: AF
         AdministrativeDivision:
-            Balkh: ~
-            Bāmyān: ~
-            Bādghīs: ~
-            Badakhshān: ~
-            Baghlān: ~
-            Dāykundī: ~
-            Farāh: ~
-            Fāryāb: ~
-            Ghaznī: ~
-            Ghōr: ~
-            Helmand: ~
-            Herāt: ~
-            Jowzjān: ~
-            Kābul: ~
-            Kandahār: ~
-            Kāpīsā: ~
-            Kunduz: ~
-            Khōst: ~
-            Kunar: ~
-            Laghmān: ~
-            Lōgar: ~
-            Nangarhār: ~
-            Nīmrōz: ~
-            Nūristān: ~
-            Panjshayr: ~
-            Parwān: ~
-            Paktīā: ~
-            Paktīkā: ~
-            Samangān: ~
-            Sar-e Pul: ~
-            Takhār: ~
-            Uruzgān: ~
-            Wardak: ~
-            Zābul: ~
+            Badakhshān:
+                ISO 3166-2: BDS  
+            Bādghīs:
+                ISO 3166-2: BDG  
+            Baghlān:
+                ISO 3166-2: BGL  
+            Balkh:
+                ISO 3166-2: BAL  
+            Bāmyān:
+                ISO 3166-2: BAM  
+            Dāykundī:
+                ISO 3166-2: DAY  
+            Farāh:
+                ISO 3166-2: FRA  
+            Fāryāb:
+                ISO 3166-2: FYB  
+            Ghaznī:
+                ISO 3166-2: GHA  
+            Ghōr:
+                ISO 3166-2: GHO  
+            Helmand:
+                ISO 3166-2: HEL  
+            Herāt:
+                ISO 3166-2: HER  
+            Jowzjān:
+                ISO 3166-2: JOW  
+            Kābul:
+                ISO 3166-2: KAB  
+            Kandahār:
+                ISO 3166-2: KAN  
+            Kāpīsā:
+                ISO 3166-2: KAP  
+            Khōst:
+                ISO 3166-2: KHO  
+            Kunar:
+                ISO 3166-2: KNR  
+            Kunduz:
+                ISO 3166-2: KDZ  
+            Laghmān:
+                ISO 3166-2: LAG  
+            Lōgar:
+                ISO 3166-2: LOG  
+            Nangarhār:
+                ISO 3166-2: NAN  
+            Nīmrōz:
+                ISO 3166-2: NIM  
+            Nūristān:
+                ISO 3166-2: NUR  
+            Paktīkā:
+                ISO 3166-2: PKA  
+            Paktiyā:
+                ISO 3166-2: PIA  
+            Panjshayr:
+                ISO 3166-2: PAN  
+            Parwān:
+                ISO 3166-2: PAR  
+            Samangān:
+                ISO 3166-2: SAM  
+            Sar-e Pul:
+                ISO 3166-2: SAR   
+            Takhār:
+                ISO 3166-2: TAK  
+            Uruzgān:
+                ISO 3166-2: URU  
+            Wardak:
+                ISO 3166-2: WAR
+            Zābul:
+                ISO 3166-2: ZAB
     Åland Islands:
         Code:
             ISO 3166-1 Alpha-2: AX
