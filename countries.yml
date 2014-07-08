@@ -251,6 +251,45 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: CA
         AdministrativeDivision:
+            Alberta:
+                Code:
+                    ISO 3166-2: AB
+            British Columbia:
+                Code:
+                    ISO 3166-2: BC
+            Manitoba:
+                Code:
+                    ISO 3166-2: MB
+            New Brunswick:
+                Code:
+                    ISO 3166-2: NB
+            Newfoundland and Labrador:
+                Code:
+                    ISO 3166-2: NL
+            Nova Scotia:
+                Code:
+                    ISO 3166-2: NS
+            Ontario:
+                Code:
+                    ISO 3166-2: ON
+            Prince Edward Island:
+                Code:
+                    ISO 3166-2: PE
+            Quebec:
+                Code:
+                    ISO 3166-2: QC
+            Saskatchewan:
+                Code:
+                    ISO 3166-2: SK
+            Northwest Territories:
+                Code:
+                    ISO 3166-2: NT
+            Nunavut:
+                Code:
+                    ISO 3166-2: NU
+            Yukon:
+                Code:
+                    ISO 3166-2: YT
     Cape Verde:
         Code:
             ISO 3166-1 Alpha-2: CV
