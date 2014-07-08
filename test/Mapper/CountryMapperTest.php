@@ -5,7 +5,8 @@ use CRTX\CountryISO\Entity\EntityFactory;
 use Symfony\Component\Yaml\Parser;
 
 class CountryMapperTest extends \PHPUnit_Framework_TestCase
-{ public function testCountryMapping()
+{
+    public function testCountryMapping()
     {
         $EntityFactory = new EntityFactory();
         $MapperFactory = new YamlMapperFactory($EntityFactory);
