@@ -13,5 +13,6 @@ class CountryMapperTest extends \PHPUnit_Framework_TestCase
         $CountryMapper = $MapperFactory->build('CountryMapper', array(__DIR__ . '/../../countries.yml'));
         $Country = $EntityFactory->build('Country');
         $all = $CountryMapper->getAll();
+        var_dump($all);
     }
 }

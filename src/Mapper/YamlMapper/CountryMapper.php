@@ -25,7 +25,7 @@ class CountryMapper extends AbstractYamlMapper
         foreach ($countryNameArray as $countryName => $countryParameterArray) {
             $this->Entity = new Country();
             $this->Entity->setName($countryName);
-            $this->Entity->setCode($countryParameterArray['ISO 3166-1 Alpha-2']);
+            $this->Entity->setCode($countryParameterArray['Code']['ISO 3166-1 Alpha-2']);
             $this->mapDivision($countryParameterArray);
             array_push($this->mappedEntity, $this->Entity);
         }
@@ -53,8 +53,13 @@ class CountryMapper extends AbstractYamlMapper
             $AdministrativeDivision = $this->EntityFactory
                 ->build('AdministrativeDivision');
             $AdministrativeDivision->setName($divisionName);
-            $AdministrativeDivision
-                ->setCode($divisionProperty['ISO 3166-1 Alpha-2']);
+
+            if (is_array($divisionProperty) && array_key_exists('Code', $divisionProperty)) {
+                    $AdministrativeDivision
+                        ->setCode(
+                            $divisionProperty['Code']
+                        );
+            }
             $this->Entity->add($AdministrativeDivision);
         }
     }

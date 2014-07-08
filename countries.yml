@@ -611,101 +611,100 @@ Country:
         AdministrativeDivision:
             Aguascalientes:
                 Code:
-                    ISO 3166-1 Alpha-3: AGU
+                    ISO 3166-2: AGU
             Baja California:
                 Code:
-                    ISO 3166-1 Alpha-3: BCN
+                    ISO 3166-2: BCN
             Baja California Sur:
                 Code:
-                    ISO 3166-1 Alpha-3: BCS
+                    ISO 3166-2: BCS
             Campeche:
                 Code:
-                    ISO 3166-1 Alpha-3: CAM
+                    ISO 3166-2: CAM
             Chihuahua:
                 Code:
-                    ISO 3166-1 Alpha-3: CHH
+                    ISO 3166-2: CHH
             Chiapas:
                 Code:
-                    ISO 3166-1 Alpha-3: CHP
+                    ISO 3166-2: CHP
             Coahuila:
                 Code:
-                    ISO 3166-1 Alpha-3: COA
+                    ISO 3166-2: COA
             Colima:
                 Code:
-                    ISO 3166-1 Alpha-3: COL
+                    ISO 3166-2: COL
             Distrito Federal:
                 Code:
-                    ISO 3166-1 Alpha-3: DIF
+                    ISO 3166-2: DIF
             Durango:
                 Code:
-                    ISO 3166-1 Alpha-3: DUR
+                    ISO 3166-2: DUR
             Guerrero:
                 Code:
-                    ISO 3166-1 Alpha-3: GRO
+                    ISO 3166-2: GRO
             Guanajuato:
                 Code:
-                    ISO 3166-1 Alpha-3: GUA
+                    ISO 3166-2: GUA
             Hidalgo:
                 Code:
-                    ISO 3166-1 Alpha-3: HID
+                    ISO 3166-2: HID
             Jalisco:
                 Code:
-                    ISO 3166-1 Alpha-3: JAL
+                    ISO 3166-2: JAL
             México:
                 Code:
-                    ISO 3166-1 Alpha-3: MEX
+                    ISO 3166-2: MEX
             Michoacán:
                 Code:
-                    ISO 3166-1 Alpha-3: MIC
+                    ISO 3166-2: MIC
             Morelos:
                 Code:
-                    ISO 3166-1 Alpha-3: MOR
+                    ISO 3166-2: MOR
             Nayarit:
                 Code:
-                    ISO 3166-1 Alpha-3: NAY
+                    ISO 3166-2: NAY
             Nuevo León:
                 Code:
-                    ISO 3166-1 Alpha-3: NLE
+                    ISO 3166-2: NLE
             Oaxaca:
                 Code:
-                    ISO 3166-1 Alpha-3: OAX
+                    ISO 3166-2: OAX
             Puebla:
                 Code:
-                    ISO 3166-1 Alpha-3: PUE
+                    ISO 3166-2: PUE
             Querétaro:
                 Code:
-                    ISO 3166-1 Alpha-3: QUE
+                    ISO 3166-2: QUE
             Quintana Roo:
                 Code:
-                    ISO 3166-1 Alpha-3: ROO
+                    ISO 3166-2: ROO
             Sinaloa:
                 Code:
-                    ISO 3166-1 Alpha-3: SIN
+                    ISO 3166-2: SIN
             San Luis Potosí:
                 Code:
-                    ISO 3166-1 Alpha-3: SLP
+                    ISO 3166-2: SLP
             Sonora:
                 Code:
-                    ISO 3166-1 Alpha-3: SON
+                    ISO 3166-2: SON
             Tabasco:
                 Code:
-                    ISO 3166-1 Alpha-3: TAB
+                    ISO 3166-2: TAB
             Tamaulipas:
                 Code:
-                    ISO 3166-1 Alpha-3: TAM
+                    ISO 3166-2: TAM
             Tlaxcala:
                 Code:
-                    ISO 3166-1 Alpha-3: TLA
+                    ISO 3166-2: TLA
             Veracruz:
                 Code:
-                    ISO 3166-1 Alpha-3: VER
+                    ISO 3166-2: VER
             Yucatán:
                 Code:
-                    ISO 3166-1 Alpha-3: YUC
+                    ISO 3166-2: YUC
             Zacatecas:
                 Code:
-                    ISO 3166-1 Alpha-3: ZAC
-
+                    ISO 3166-2: ZAC
     Micronesia, Federated States of:
         Code:
             ISO 3166-1 Alpha-2: FM
@@ -1128,31 +1127,31 @@ Country:
         AdministrativeDivision:
             Bulawayo:
                 Code:
-                    ISO 3166-1 Alpha-2: BU  
+                    ISO 3166-2: BU  
             Harare:
                 Code:
-                    ISO 3166-1 Alpha-2: HA  
+                    ISO 3166-2: HA  
             Manicaland:
                 Code:
-                    ISO 3166-1 Alpha-2: MA  
+                    ISO 3166-2: MA  
             Mashonaland Central:
                 Code:
-                    ISO 3166-1 Alpha-2: MC  
+                    ISO 3166-2: MC  
             Mashonaland East:
                 Code:
-                    ISO 3166-1 Alpha-2: ME
+                    ISO 3166-2: ME
             Midlands:
                 Code:
-                    ISO 3166-1 Alpha-2: MI 
+                    ISO 3166-2: MI 
             Matabeleland North:
                 Code:
-                    ISO 3166-1 Alpha-2: MN
+                    ISO 3166-2: MN
             Matabeleland South:
                 Code:
-                    ISO 3166-1 Alpha-2: MS
+                    ISO 3166-2: MS
             Masvingo:
                 Code:
-                    ISO 3166-1 Alpha-2: MV
+                    ISO 3166-2: MV
             Mashonaland West:
                 Code:
-                    ISO 3166-1 Alpha-2: MW
+                    ISO 3166-2: MW
