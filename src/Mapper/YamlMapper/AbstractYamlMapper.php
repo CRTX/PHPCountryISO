@@ -14,6 +14,6 @@ class AbstractYamlMapper
     public function __construct(EntityFactory $EntityFactory = null, array $array = array())
     {
         $this->EntityFactory = $EntityFactory;
-        $this->array = $array;
+        $this->unmappedArray = $array;
     }
 }
