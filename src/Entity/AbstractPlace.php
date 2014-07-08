@@ -29,7 +29,7 @@ abstract class AbstractPlace implements PlaceInterface
         $this->code = $string;
     }
 
-    public function getCode($string)
+    public function getCode()
     {
         return $this->code;
     }
