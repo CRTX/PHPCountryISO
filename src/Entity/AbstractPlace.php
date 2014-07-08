@@ -5,6 +5,7 @@ namespace CRTX\CountryISO\Entity;
 abstract class AbstractPlace implements PlaceInterface
 {
     protected $name;
+    protected $code;
     protected $position = 0;
     protected $place = array();
 
@@ -21,6 +22,16 @@ abstract class AbstractPlace implements PlaceInterface
     public function getName()
     {
         return $this->name;
+    }
+
+    public function setCode($string)
+    {
+        $this->code = $string;
+    }
+
+    public function getCode($string)
+    {
+        return $this->code;
     }
 
     public function rewind()

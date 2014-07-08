@@ -1,499 +1,802 @@
 Country:
-    AF:
-        Afghanistan:
-    AX:
-        Åland Islands:
-    AL:
-        Albania:
-    DZ:
-        Algeria:
-    AS:
-        American Samoa:
-    AD:
-        Andorra:
-    AO:
-        Angola:
-    AI:
-        Anguilla:
-    AQ:
-        Antarctica:
-    AG:
-        Antigua and Barbuda:
-    AR:
-        Argentina:
-    AM:
-        Armenia:
-    AW:
-        Aruba:
-    AU:
-        Australia:
-    AT:
-        Austria:
-    AZ:
-        Azerbaijan:
-    BS:
-        Bahamas:
-    BH:
-        Bahrain:
-    BD:
-        Bangladesh:
-    BB:
-        Barbados:
-    BY:
-        Belarus:
-    BE:
-        Belgium:
-    BZ:
-        Belize:
-    BJ:
-        Benin:
-    BM:
-        Bermuda:
-    BT:
-        Bhutan:
-    BO:
-        Bolivia, Plurinational State of:
-    BQ:
-        Bonaire, Sint Eustatius and Saba:
-    BA:
-        Bosnia and Herzegovina:
-    BW:
-        Botswana:
-    BV:
-        Bouvet Island:
-    BR:
-        Brazil:
-    IO:
-        British Indian Ocean Territory:
-    BN:
-        Brunei Darussalam:
-    BG:
-        Bulgaria:
-    BF:
-        Burkina Faso:
-    BI:
-        Burundi:
-    KH:
-        Cambodia:
-    CM:
-        Cameroon:
-    CA:
-        Canada:
-    CV:
-        Cape Verde:
-    KY:
-        Cayman Islands:
-    CF:
-        Central African Republic:
-    TD:
-        Chad:
-    CL:
-        Chile:
-    CN:
-        China:
-    CX:
-        Christmas Island:
-    CC:
-        Cocos (Keeling) Islands:
-    CO:
-        Colombia:
-    KM:
-        Comoros:
-    CG:
-        Congo:
-    CD:
-        Congo, The Democratic Republic of the:
-    CK:
-        Cook Islands:
-    CR:
-        Costa Rica:
-    CI:
-        Côte D'Ivoire:
-    HR:
-        Croatia:
-    CU:
-        Cuba:
-    CW:
-        Curaçao:
-    CY:
-        Cyprus:
-    CZ:
-        Czech Republic:
-    DK:
-        Denmark:
-    DJ:
-        Djibouti:
-    DM:
-        Dominica:
-    DO:
-        Dominican Republic:
-    EC:
-        Ecuador:
-    EG:
-        Egypt:
-    SV:
-        El Salvador:
-    GQ:
-        Equatorial Guinea:
-    ER:
-        Eritrea:
-    EE:
-        Estonia:
-    ET:
-        Ethiopia:
-    FK:
-        Falkland Islands (Malvinas):
-    FO:
-        Faroe Islands:
-    FJ:
-        Fiji:
-    FI:
-        Finland:
-    FR:
-        France:
-    GF:
-        French Guiana:
-    PF:
-        French Polynesia:
-    TF:
-        French Southern Territories:
-    GA:
-        Gabon:
-    GM:
-        Gambia:
-    GE:
-        Georgia:
-    DE:
-        Germany:
-    GH:
-        Ghana:
-    GI:
-        Gibraltar:
-    GR:
-        Greece:
-    GL:
-        Greenland:
-    GD:
-        Grenada:
-    GP:
-        Guadeloupe:
-    GU:
-        Guam:
-    GT:
-        Guatemala:
-    GG:
-        Guernsey:
-    GN:
-        Guinea:
-    GW:
-        Guinea-Bissau:
-    GY:
-        Guyana:
-    HT:
-        Haiti:
-    HM:
-        Heard Island and Mcdonald Islands:
-    VA:
-        Holy See (Vatican City State):
-    HN:
-        Honduras:
-    HK:
-        Hong Kong:
-    HU:
-        Hungary:
-    IS:
-        Iceland:
-    IN:
-        India:
-    ID:
-        Indonesia:
-    IR:
-        Iran, Islamic Republic of:
-    IQ:
-        Iraq:
-    IE:
-        Ireland:
-    IM:
-        Isle of Man:
-    IL:
-        Israel:
-    IT:
-        Italy:
-    JM:
-        Jamaica:
-    JP:
-        Japan:
-    JE:
-        Jersey:
-    JO:
-        Jordan:
-    KZ:
-        Kazakhstan:
-    KE:
-        Kenya:
-    KI:
-        Kiribati:
-    KP:
-        Korea, Democratic People's Republic of:
-    KR:
-        Korea, Republic of:
-    KW:
-        Kuwait:
-    KG:
-        Kyrgyzstan:
-    LA:
-        Lao People's Democratic Republic:
-    LV:
-        Latvia:
-    LB:
-        Lebanon:
-    LS:
-        Lesotho:
-    LR:
-        Liberia:
-    LY:
-        Libya:
-    LI:
-        Liechtenstein:
-    LT:
-        Lithuania:
-    LU:
-        Luxembourg:
-    MO:
-        Macao:
-    MK:
-        Macedonia, The former Yugoslav Republic of:
-    MG:
-        Madagascar:
-    MW:
-        Malawi:
-    MY:
-        Malaysia:
-    MV:
-        Maldives:
-    ML:
-        Mali:
-    MT:
-        Malta:
-    MH:
-        Marshall Islands:
-    MQ:
-        Martinique:
-    MR:
-        Mauritania:
-    MU:
-        Mauritius:
-    YT:
-        Mayotte:
-    MX:
-        Mexico:
-    FM:
-        Micronesia, Federated States of:
-    MD:
-        Moldova, Republic of:
-    MC:
-        Monaco:
-    MN:
-        Mongolia:
-    ME:
-        Montenegro:
-    MS:
-        Montserrat:
-    MA:
-        Morocco:
-    MZ:
-        Mozambique:
-    MM:
-        Myanmar:
-    NA:
-        Namibia:
-    NR:
-        Nauru:
-    NP:
-        Nepal:
-    NL:
-        Netherlands:
-    NC:
-        New Caledonia:
-    NZ:
-        New Zealand:
-    NI:
-        Nicaragua:
-    NE:
-        Niger:
-    NG:
-        Nigeria:
-    NU:
-        Niue:
-    NF:
-        Norfolk Island:
-    MP:
-        Northern Mariana Islands:
-    NO:
-        Norway:
-    OM:
-        Oman:
-    PK:
-        Pakistan:
-    PW:
-        Palau:
-    PS:
-        Palestine, State of:
-    PA:
-        Panama:
-    PG:
-        Papua New Guinea:
-    PY:
-        Paraguay:
-    PE:
-        Peru:
-    PH:
-        Philippines:
-    PN:
-        Pitcairn:
-    PL:
-        Poland:
-    PT:
-        Portugal:
-    PR:
-        Puerto Rico:
-    QA:
-        Qatar:
-    RE:
-        Réunion:
-    RO:
-        Romania:
-    RU:
-        Russian Federation:
-    RW:
-        Rwanda:
-    BL:
-        Saint Barthélemy:
-    SH:
-        Saint Helena, Ascension and Tristan da Cunha:
-    KN:
-        Saint Kitts and Nevis:
-    LC:
-        Saint Lucia:
-    MF:
-        Saint Martin (French Part):
-    PM:
-        Saint Pierre and Miquelon:
-    VC:
-        Saint Vincent and the Grenadines:
-    WS:
-        Samoa:
-    SM:
-        San Marino:
-    ST:
-        Sao Tome and Principe:
-    SA:
-        Saudi Arabia:
-    SN:
-        Senegal:
-    RS:
-        Serbia:
-    SC:
-        Seychelles:
-    SL:
-        Sierra Leone:
-    SG:
-        Singapore:
-    SX:
-        Sint Maarten (Dutch Part):
-    SK:
-        Slovakia:
-    SI:
-        Slovenia:
-    SB:
-        Solomon Islands:
-    SO:
-        Somalia:
-    ZA:
-        South Africa:
-    GS:
-        South Georgia and the South Sandwich Islands:
-    SS:
-        South Sudan:
-    ES:
-        Spain:
-    LK:
-        Sri Lanka:
-    SD:
-        Sudan:
-    SR:
-        Suriname:
-    SJ:
-        Svalbard and Jan Mayen:
-    SZ:
-        Swaziland:
-    SE:
-        Sweden:
-    CH:
-        Switzerland:
-    SY:
-        Syrian Arab Republic:
-    TW:
-        Taiwan, Province of China:
-    TJ:
-        Tajikistan:
-    TZ:
-        Tanzania, United Republic of:
-    TH:
-        Thailand:
-    TL:
-        Timor-Leste:
-    TG:
-        Togo:
-    TK:
-        Tokelau:
-    TO:
-        Tonga:
-    TT:
-        Trinidad and Tobago:
-    TN:
-        Tunisia:
-    TR:
-        Turkey:
-    TM:
-        Turkmenistan:
-    TC:
-        Turks and Caicos Islands:
-    TV:
-        Tuvalu:
-    UG:
-        Uganda:
-    UA:
-        Ukraine:
-    AE:
-        United Arab Emirates:
-    GB:
-        United Kingdom:
-    US:
-        United States:
-    UM:
-        United States Minor Outlying Islands:
-    UY:
-        Uruguay:
-    UZ:
-        Uzbekistan:
-    VU:
-        Vanuatu:
-    VE:
-        Venezuela, Bolivarian Republic of:
-    VN:
-        Viet Nam:
-    VG:
-        Virgin Islands, British:
-    VI:
-        Virgin Islands, U.S.:
-    WF:
-        Wallis and Futuna:
-    EH:
-        Western Sahara:
-    YE:
-        Yemen:
-    ZM:
-        Zambia:
-    ZW:
-        Zimbabwe:
+    Afghanistan:
+        ISO 3166-1 Alpha-2: AF
+        AdministrativeDivision:
+            Balkh: ~
+            Bāmyān: ~
+            Bādghīs: ~
+            Badakhshān: ~
+            Baghlān: ~
+            Dāykundī: ~
+            Farāh: ~
+            Fāryāb: ~
+            Ghaznī: ~
+            Ghōr: ~
+            Helmand: ~
+            Herāt: ~
+            Jowzjān: ~
+            Kābul: ~
+            Kandahār: ~
+            Kāpīsā: ~
+            Kunduz: ~
+            Khōst: ~
+            Kunar: ~
+            Laghmān: ~
+            Lōgar: ~
+            Nangarhār: ~
+            Nīmrōz: ~
+            Nūristān: ~
+            Panjshayr: ~
+            Parwān: ~
+            Paktīā: ~
+            Paktīkā: ~
+            Samangān: ~
+            Sar-e Pul: ~
+            Takhār: ~
+            Uruzgān: ~
+            Wardak: ~
+            Zābul: ~
+    Åland Islands:
+        ISO 3166-1 Alpha-2: AX
+        AdministrativeDivision: ~
+    Albania:
+        ISO 3166-1 Alpha-2: AL
+        AdministrativeDivision:
+    Algeria:
+        ISO 3166-1 Alpha-2: DZ
+        AdministrativeDivision:
+    American Samoa:
+        ISO 3166-1 Alpha-2: AS
+        AdministrativeDivision:
+    Andorra:
+        ISO 3166-1 Alpha-2: AD
+        AdministrativeDivision:
+    Angola:
+        ISO 3166-1 Alpha-2: AO
+        AdministrativeDivision:
+    Anguilla:
+        ISO 3166-1 Alpha-2: AI
+        AdministrativeDivision:
+    Antarctica:
+        ISO 3166-1 Alpha-2: AQ
+        AdministrativeDivision:
+    Antigua and Barbuda:
+        ISO 3166-1 Alpha-2: AG
+        AdministrativeDivision:
+    Argentina:
+        ISO 3166-1 Alpha-2: AR
+        AdministrativeDivision:
+    Armenia:
+        ISO 3166-1 Alpha-2: AM
+        AdministrativeDivision:
+    Aruba:
+        ISO 3166-1 Alpha-2: AW
+        AdministrativeDivision:
+    Australia:
+        ISO 3166-1 Alpha-2: AU
+        AdministrativeDivision:
+    Austria:
+        ISO 3166-1 Alpha-2: AT
+        AdministrativeDivision:
+    Azerbaijan:
+        ISO 3166-1 Alpha-2: AZ
+        AdministrativeDivision:
+    Bahamas:
+        ISO 3166-1 Alpha-2: BS
+        AdministrativeDivision:
+    Bahrain:
+        ISO 3166-1 Alpha-2: BH
+        AdministrativeDivision:
+    Bangladesh:
+        ISO 3166-1 Alpha-2: BD
+        AdministrativeDivision:
+    Barbados:
+        ISO 3166-1 Alpha-2: BB
+        AdministrativeDivision:
+    Belarus:
+        ISO 3166-1 Alpha-2: BY
+        AdministrativeDivision:
+    Belgium:
+        ISO 3166-1 Alpha-2: BE
+        AdministrativeDivision:
+    Belize:
+        ISO 3166-1 Alpha-2: BZ
+        AdministrativeDivision:
+    Benin:
+        ISO 3166-1 Alpha-2: BJ
+        AdministrativeDivision:
+    Bermuda:
+        ISO 3166-1 Alpha-2: BM
+        AdministrativeDivision:
+    Bhutan:
+        ISO 3166-1 Alpha-2: BT
+        AdministrativeDivision:
+    Bolivia, Plurinational State of:
+        ISO 3166-1 Alpha-2: BO
+        AdministrativeDivision:
+    Bonaire, Sint Eustatius and Saba:
+        ISO 3166-1 Alpha-2: BQ
+        AdministrativeDivision:
+    Bosnia and Herzegovina:
+        ISO 3166-1 Alpha-2: BA
+        AdministrativeDivision:
+    Botswana:
+        ISO 3166-1 Alpha-2: BW
+        AdministrativeDivision:
+    Bouvet Island:
+        ISO 3166-1 Alpha-2: BV
+        AdministrativeDivision:
+    Brazil:
+        ISO 3166-1 Alpha-2: BR
+        AdministrativeDivision:
+    British Indian Ocean Territory:
+        ISO 3166-1 Alpha-2: IO
+        AdministrativeDivision:
+    Brunei Darussalam:
+        ISO 3166-1 Alpha-2: BN
+        AdministrativeDivision:
+    Bulgaria:
+        ISO 3166-1 Alpha-2: BG
+        AdministrativeDivision:
+    Burkina Faso:
+        ISO 3166-1 Alpha-2: BF
+        AdministrativeDivision:
+    Burundi:
+        ISO 3166-1 Alpha-2: BI
+        AdministrativeDivision:
+    Cambodia:
+        ISO 3166-1 Alpha-2: KH
+        AdministrativeDivision:
+    Cameroon:
+        ISO 3166-1 Alpha-2: CM
+        AdministrativeDivision:
+    Canada:
+        ISO 3166-1 Alpha-2: CA
+        AdministrativeDivision:
+    Cape Verde:
+        ISO 3166-1 Alpha-2: CV
+        AdministrativeDivision:
+    Cayman Islands:
+        ISO 3166-1 Alpha-2: KY
+        AdministrativeDivision:
+    Central African Republic:
+        ISO 3166-1 Alpha-2: CF
+        AdministrativeDivision:
+    Chad:
+        ISO 3166-1 Alpha-2: TD
+        AdministrativeDivision:
+    Chile:
+        ISO 3166-1 Alpha-2: CL
+        AdministrativeDivision:
+    China:
+        ISO 3166-1 Alpha-2: CN
+        AdministrativeDivision:
+    Christmas Island:
+        ISO 3166-1 Alpha-2: CX
+        AdministrativeDivision:
+    Cocos (Keeling) Islands:
+        ISO 3166-1 Alpha-2: CC
+        AdministrativeDivision:
+    Colombia:
+        ISO 3166-1 Alpha-2: CO
+        AdministrativeDivision:
+    Comoros:
+        ISO 3166-1 Alpha-2: KM
+        AdministrativeDivision:
+    Congo:
+        ISO 3166-1 Alpha-2: CG
+        AdministrativeDivision:
+    Congo, The Democratic Republic of the:
+        ISO 3166-1 Alpha-2: CD
+        AdministrativeDivision:
+    Cook Islands:
+        ISO 3166-1 Alpha-2: CK
+        AdministrativeDivision:
+    Costa Rica:
+        ISO 3166-1 Alpha-2: CR
+        AdministrativeDivision:
+    Côte D'Ivoire:
+        ISO 3166-1 Alpha-2: CI
+        AdministrativeDivision:
+    Croatia:
+        ISO 3166-1 Alpha-2: HR
+        AdministrativeDivision:
+    Cuba:
+        ISO 3166-1 Alpha-2: CU
+        AdministrativeDivision:
+    Curaçao:
+        ISO 3166-1 Alpha-2: CW
+        AdministrativeDivision:
+    Cyprus:
+        ISO 3166-1 Alpha-2: CY
+        AdministrativeDivision:
+    Czech Republic:
+        ISO 3166-1 Alpha-2: CZ
+        AdministrativeDivision:
+    Denmark:
+        ISO 3166-1 Alpha-2: DK
+        AdministrativeDivision:
+    Djibouti:
+        ISO 3166-1 Alpha-2: DJ
+        AdministrativeDivision:
+    Dominica:
+        ISO 3166-1 Alpha-2: DM
+        AdministrativeDivision:
+    Dominican Republic:
+        ISO 3166-1 Alpha-2: DO
+        AdministrativeDivision:
+    Ecuador:
+        ISO 3166-1 Alpha-2: EC
+        AdministrativeDivision:
+    Egypt:
+        ISO 3166-1 Alpha-2: EG
+        AdministrativeDivision:
+    El Salvador:
+        ISO 3166-1 Alpha-2: SV
+        AdministrativeDivision:
+    Equatorial Guinea:
+        ISO 3166-1 Alpha-2: GQ
+        AdministrativeDivision:
+    Eritrea:
+        ISO 3166-1 Alpha-2: ER
+        AdministrativeDivision:
+    Estonia:
+        ISO 3166-1 Alpha-2: EE
+        AdministrativeDivision:
+    Ethiopia:
+        ISO 3166-1 Alpha-2: ET
+        AdministrativeDivision:
+    Falkland Islands (Malvinas):
+        ISO 3166-1 Alpha-2: FK
+        AdministrativeDivision:
+    Faroe Islands:
+        ISO 3166-1 Alpha-2: FO
+        AdministrativeDivision:
+    Fiji:
+        ISO 3166-1 Alpha-2: FJ
+        AdministrativeDivision:
+    Finland:
+        ISO 3166-1 Alpha-2: FI
+        AdministrativeDivision:
+    France:
+        ISO 3166-1 Alpha-2: FR
+        AdministrativeDivision:
+    French Guiana:
+        ISO 3166-1 Alpha-2: GF
+        AdministrativeDivision:
+    French Polynesia:
+        ISO 3166-1 Alpha-2: PF
+        AdministrativeDivision:
+    French Southern Territories:
+        ISO 3166-1 Alpha-2: TF
+        AdministrativeDivision:
+    Gabon:
+        ISO 3166-1 Alpha-2: GA
+        AdministrativeDivision:
+    Gambia:
+        ISO 3166-1 Alpha-2: GM
+        AdministrativeDivision:
+    Georgia:
+        ISO 3166-1 Alpha-2: GE
+        AdministrativeDivision:
+    Germany:
+        ISO 3166-1 Alpha-2: DE
+        AdministrativeDivision:
+    Ghana:
+        ISO 3166-1 Alpha-2: GH
+        AdministrativeDivision:
+    Gibraltar:
+        ISO 3166-1 Alpha-2: GI
+        AdministrativeDivision:
+    Greece:
+        ISO 3166-1 Alpha-2: GR
+        AdministrativeDivision:
+    Greenland:
+        ISO 3166-1 Alpha-2: GL
+        AdministrativeDivision:
+    Grenada:
+        ISO 3166-1 Alpha-2: GD
+        AdministrativeDivision:
+    Guadeloupe:
+        ISO 3166-1 Alpha-2: GP
+        AdministrativeDivision:
+    Guam:
+        ISO 3166-1 Alpha-2: GU
+        AdministrativeDivision:
+    Guatemala:
+        ISO 3166-1 Alpha-2: GT
+        AdministrativeDivision:
+    Guernsey:
+        ISO 3166-1 Alpha-2: GG
+        AdministrativeDivision:
+    Guinea:
+        ISO 3166-1 Alpha-2: GN
+        AdministrativeDivision:
+    Guinea-Bissau:
+        ISO 3166-1 Alpha-2: GW
+        AdministrativeDivision:
+    Guyana:
+        ISO 3166-1 Alpha-2: GY
+        AdministrativeDivision:
+    Haiti:
+        ISO 3166-1 Alpha-2: HT
+        AdministrativeDivision:
+    Heard Island and Mcdonald Islands:
+        ISO 3166-1 Alpha-2: HM
+        AdministrativeDivision:
+    Holy See (Vatican City State):
+        ISO 3166-1 Alpha-2: VA
+        AdministrativeDivision:
+    Honduras:
+        ISO 3166-1 Alpha-2: HN
+        AdministrativeDivision:
+    Hong Kong:
+        ISO 3166-1 Alpha-2: HK
+        AdministrativeDivision:
+    Hungary:
+        ISO 3166-1 Alpha-2: HU
+        AdministrativeDivision:
+    Iceland:
+        ISO 3166-1 Alpha-2: IS
+        AdministrativeDivision:
+    India:
+        ISO 3166-1 Alpha-2: IN
+        AdministrativeDivision:
+    Indonesia:
+        ISO 3166-1 Alpha-2: ID
+        AdministrativeDivision:
+    Iran, Islamic Republic of:
+        ISO 3166-1 Alpha-2: IR
+        AdministrativeDivision:
+    Iraq:
+        ISO 3166-1 Alpha-2: IQ
+        AdministrativeDivision:
+    Ireland:
+        ISO 3166-1 Alpha-2: IE
+        AdministrativeDivision:
+    Isle of Man:
+        ISO 3166-1 Alpha-2: IM
+        AdministrativeDivision:
+    Israel:
+        ISO 3166-1 Alpha-2: IL
+        AdministrativeDivision:
+    Italy:
+        ISO 3166-1 Alpha-2: IT
+        AdministrativeDivision:
+    Jamaica:
+        ISO 3166-1 Alpha-2: JM
+        AdministrativeDivision:
+    Japan:
+        ISO 3166-1 Alpha-2: JP
+        AdministrativeDivision:
+    Jersey:
+        ISO 3166-1 Alpha-2: JE
+        AdministrativeDivision:
+    Jordan:
+        ISO 3166-1 Alpha-2: JO
+        AdministrativeDivision:
+    Kazakhstan:
+        ISO 3166-1 Alpha-2: KZ
+        AdministrativeDivision:
+    Kenya:
+        ISO 3166-1 Alpha-2: KE
+        AdministrativeDivision:
+    Kiribati:
+        ISO 3166-1 Alpha-2: KI
+        AdministrativeDivision:
+    Korea, Democratic People's Republic of:
+        ISO 3166-1 Alpha-2: KP
+        AdministrativeDivision:
+    Korea, Republic of:
+        ISO 3166-1 Alpha-2: KR
+        AdministrativeDivision:
+    Kuwait:
+        ISO 3166-1 Alpha-2: KW
+        AdministrativeDivision:
+    Kyrgyzstan:
+        ISO 3166-1 Alpha-2: KG
+        AdministrativeDivision:
+    Lao People's Democratic Republic:
+        ISO 3166-1 Alpha-2: LA
+        AdministrativeDivision:
+    Latvia:
+        ISO 3166-1 Alpha-2: LV
+        AdministrativeDivision:
+    Lebanon:
+        ISO 3166-1 Alpha-2: LB
+        AdministrativeDivision:
+    Lesotho:
+        ISO 3166-1 Alpha-2: LS
+        AdministrativeDivision:
+    Liberia:
+        ISO 3166-1 Alpha-2: LR
+        AdministrativeDivision:
+    Libya:
+        ISO 3166-1 Alpha-2: LY
+        AdministrativeDivision:
+    Liechtenstein:
+        ISO 3166-1 Alpha-2: LI
+        AdministrativeDivision:
+    Lithuania:
+        ISO 3166-1 Alpha-2: LT
+        AdministrativeDivision:
+    Luxembourg:
+        ISO 3166-1 Alpha-2: LU
+        AdministrativeDivision:
+    Macao:
+        ISO 3166-1 Alpha-2: MO
+        AdministrativeDivision:
+    Macedonia, The former Yugoslav Republic of:
+        ISO 3166-1 Alpha-2: MK
+        AdministrativeDivision:
+    Madagascar:
+        ISO 3166-1 Alpha-2: MG
+        AdministrativeDivision:
+    Malawi:
+        ISO 3166-1 Alpha-2: MW
+        AdministrativeDivision:
+    Malaysia:
+        ISO 3166-1 Alpha-2: MY
+        AdministrativeDivision:
+    Maldives:
+        ISO 3166-1 Alpha-2: MV
+        AdministrativeDivision:
+    Mali:
+        ISO 3166-1 Alpha-2: ML
+        AdministrativeDivision:
+    Malta:
+        ISO 3166-1 Alpha-2: MT
+        AdministrativeDivision:
+    Marshall Islands:
+        ISO 3166-1 Alpha-2: MH
+        AdministrativeDivision:
+    Martinique:
+        ISO 3166-1 Alpha-2: MQ
+        AdministrativeDivision:
+    Mauritania:
+        ISO 3166-1 Alpha-2: MR
+        AdministrativeDivision:
+    Mauritius:
+        ISO 3166-1 Alpha-2: MU
+        AdministrativeDivision:
+    Mayotte:
+        ISO 3166-1 Alpha-2: YT
+        AdministrativeDivision:
+    Mexico:
+        ISO 3166-1 Alpha-2: MX
+        AdministrativeDivision:
+    Micronesia, Federated States of:
+        ISO 3166-1 Alpha-2: FM
+        AdministrativeDivision:
+    Moldova, Republic of:
+        ISO 3166-1 Alpha-2: MD
+        AdministrativeDivision:
+    Monaco:
+        ISO 3166-1 Alpha-2: MC
+        AdministrativeDivision:
+    Mongolia:
+        ISO 3166-1 Alpha-2: MN
+        AdministrativeDivision:
+    Montenegro:
+        ISO 3166-1 Alpha-2: ME
+        AdministrativeDivision:
+    Montserrat:
+        ISO 3166-1 Alpha-2: MS
+        AdministrativeDivision:
+    Morocco:
+        ISO 3166-1 Alpha-2: MA
+        AdministrativeDivision:
+    Mozambique:
+        ISO 3166-1 Alpha-2: MZ
+        AdministrativeDivision:
+    Myanmar:
+        ISO 3166-1 Alpha-2: MM
+        AdministrativeDivision:
+    Namibia:
+        ISO 3166-1 Alpha-2: NA
+        AdministrativeDivision:
+    Nauru:
+        ISO 3166-1 Alpha-2: NR
+        AdministrativeDivision:
+    Nepal:
+        ISO 3166-1 Alpha-2: NP
+        AdministrativeDivision:
+    Netherlands:
+        ISO 3166-1 Alpha-2: NL
+        AdministrativeDivision:
+    New Caledonia:
+        ISO 3166-1 Alpha-2: NC
+        AdministrativeDivision:
+    New Zealand:
+        ISO 3166-1 Alpha-2: NZ
+        AdministrativeDivision:
+    Nicaragua:
+        ISO 3166-1 Alpha-2: NI
+        AdministrativeDivision:
+    Niger:
+        ISO 3166-1 Alpha-2: NE
+        AdministrativeDivision:
+    Nigeria:
+        ISO 3166-1 Alpha-2: NG
+        AdministrativeDivision:
+    Niue:
+        ISO 3166-1 Alpha-2: NU
+        AdministrativeDivision:
+    Norfolk Island:
+        ISO 3166-1 Alpha-2: NF
+        AdministrativeDivision:
+    Northern Mariana Islands:
+        ISO 3166-1 Alpha-2: MP
+        AdministrativeDivision:
+    Norway:
+        ISO 3166-1 Alpha-2: NO
+        AdministrativeDivision:
+    Oman:
+        ISO 3166-1 Alpha-2: OM
+        AdministrativeDivision:
+    Pakistan:
+        ISO 3166-1 Alpha-2: PK
+        AdministrativeDivision:
+    Palau:
+        ISO 3166-1 Alpha-2: PW
+        AdministrativeDivision:
+    Palestine, State of:
+        ISO 3166-1 Alpha-2: PS
+        AdministrativeDivision:
+    Panama:
+        ISO 3166-1 Alpha-2: PA
+        AdministrativeDivision:
+    Papua New Guinea:
+        ISO 3166-1 Alpha-2: PG
+        AdministrativeDivision:
+    Paraguay:
+        ISO 3166-1 Alpha-2: PY
+        AdministrativeDivision:
+    Peru:
+        ISO 3166-1 Alpha-2: PE
+        AdministrativeDivision:
+    Philippines:
+        ISO 3166-1 Alpha-2: PH
+        AdministrativeDivision:
+    Pitcairn:
+        ISO 3166-1 Alpha-2: PN
+        AdministrativeDivision:
+    Poland:
+        ISO 3166-1 Alpha-2: PL
+        AdministrativeDivision:
+    Portugal:
+        ISO 3166-1 Alpha-2: PT
+        AdministrativeDivision:
+    Puerto Rico:
+        ISO 3166-1 Alpha-2: PR
+        AdministrativeDivision:
+    Qatar:
+        ISO 3166-1 Alpha-2: QA
+        AdministrativeDivision:
+    Réunion:
+        ISO 3166-1 Alpha-2: RE
+        AdministrativeDivision:
+    Romania:
+        ISO 3166-1 Alpha-2: RO
+        AdministrativeDivision:
+    Russian Federation:
+        ISO 3166-1 Alpha-2: RU
+        AdministrativeDivision:
+    Rwanda:
+        ISO 3166-1 Alpha-2: RW
+        AdministrativeDivision:
+    Saint Barthélemy:
+        ISO 3166-1 Alpha-2: BL
+        AdministrativeDivision:
+    Saint Helena, Ascension and Tristan da Cunha:
+        ISO 3166-1 Alpha-2: SH
+        AdministrativeDivision:
+    Saint Kitts and Nevis:
+        ISO 3166-1 Alpha-2: KN
+        AdministrativeDivision:
+    Saint Lucia:
+        ISO 3166-1 Alpha-2: LC
+        AdministrativeDivision:
+    Saint Martin (French Part):
+        ISO 3166-1 Alpha-2: MF
+        AdministrativeDivision:
+    Saint Pierre and Miquelon:
+        ISO 3166-1 Alpha-2: PM
+        AdministrativeDivision:
+    Saint Vincent and the Grenadines:
+        ISO 3166-1 Alpha-2: VC
+        AdministrativeDivision:
+    Samoa:
+        ISO 3166-1 Alpha-2: WS
+        AdministrativeDivision:
+    San Marino:
+        ISO 3166-1 Alpha-2: SM
+        AdministrativeDivision:
+    Sao Tome and Principe:
+        ISO 3166-1 Alpha-2: ST
+        AdministrativeDivision:
+    Saudi Arabia:
+        ISO 3166-1 Alpha-2: SA
+        AdministrativeDivision:
+    Senegal:
+        ISO 3166-1 Alpha-2: SN
+        AdministrativeDivision:
+    Serbia:
+        ISO 3166-1 Alpha-2: RS
+        AdministrativeDivision:
+    Seychelles:
+        ISO 3166-1 Alpha-2: SC
+        AdministrativeDivision:
+    Sierra Leone:
+        ISO 3166-1 Alpha-2: SL
+        AdministrativeDivision:
+    Singapore:
+        ISO 3166-1 Alpha-2: SG
+        AdministrativeDivision:
+    Sint Maarten (Dutch Part):
+        ISO 3166-1 Alpha-2: SX
+        AdministrativeDivision:
+    Slovakia:
+        ISO 3166-1 Alpha-2: SK
+        AdministrativeDivision:
+    Slovenia:
+        ISO 3166-1 Alpha-2: SI
+        AdministrativeDivision:
+    Solomon Islands:
+        ISO 3166-1 Alpha-2: SB
+        AdministrativeDivision:
+    Somalia:
+        ISO 3166-1 Alpha-2: SO
+        AdministrativeDivision:
+    South Africa:
+        ISO 3166-1 Alpha-2: ZA
+        AdministrativeDivision:
+    South Georgia and the South Sandwich Islands:
+        ISO 3166-1 Alpha-2: GS
+        AdministrativeDivision:
+    South Sudan:
+        ISO 3166-1 Alpha-2: SS
+        AdministrativeDivision:
+    Spain:
+        ISO 3166-1 Alpha-2: ES
+        AdministrativeDivision:
+    Sri Lanka:
+        ISO 3166-1 Alpha-2: LK
+        AdministrativeDivision:
+    Sudan:
+        ISO 3166-1 Alpha-2: SD
+        AdministrativeDivision:
+    Suriname:
+        ISO 3166-1 Alpha-2: SR
+        AdministrativeDivision:
+    Svalbard and Jan Mayen:
+        ISO 3166-1 Alpha-2: SJ
+        AdministrativeDivision:
+    Swaziland:
+        ISO 3166-1 Alpha-2: SZ
+        AdministrativeDivision:
+    Sweden:
+        ISO 3166-1 Alpha-2: SE
+        AdministrativeDivision:
+    Switzerland:
+        ISO 3166-1 Alpha-2: CH
+        AdministrativeDivision:
+    Syrian Arab Republic:
+        ISO 3166-1 Alpha-2: SY
+        AdministrativeDivision:
+    Taiwan, AdministrativeDivision of China:
+        ISO 3166-1 Alpha-2: TW
+        AdministrativeDivision:
+    Tajikistan:
+        ISO 3166-1 Alpha-2: TJ
+        AdministrativeDivision:
+    Tanzania, United Republic of:
+        ISO 3166-1 Alpha-2: TZ
+        AdministrativeDivision:
+    Thailand:
+        ISO 3166-1 Alpha-2: TH
+        AdministrativeDivision:
+    Timor-Leste:
+        ISO 3166-1 Alpha-2: TL
+        AdministrativeDivision:
+    Togo:
+        ISO 3166-1 Alpha-2: TG
+        AdministrativeDivision:
+    Tokelau:
+        ISO 3166-1 Alpha-2: TK
+        AdministrativeDivision:
+    Tonga:
+        ISO 3166-1 Alpha-2: TO
+        AdministrativeDivision:
+    Trinidad and Tobago:
+        ISO 3166-1 Alpha-2: TT
+        AdministrativeDivision:
+    Tunisia:
+        ISO 3166-1 Alpha-2: TN
+        AdministrativeDivision:
+    Turkey:
+        ISO 3166-1 Alpha-2: TR
+        AdministrativeDivision:
+    Turkmenistan:
+        ISO 3166-1 Alpha-2: TM
+        AdministrativeDivision:
+    Turks and Caicos Islands:
+        ISO 3166-1 Alpha-2: TC
+        AdministrativeDivision:
+    Tuvalu:
+        ISO 3166-1 Alpha-2: TV
+        AdministrativeDivision:
+    Uganda:
+        ISO 3166-1 Alpha-2: UG
+        AdministrativeDivision:
+    Ukraine:
+        ISO 3166-1 Alpha-2: UA
+        AdministrativeDivision:
+    United Arab Emirates:
+        ISO 3166-1 Alpha-2: AE
+        AdministrativeDivision:
+    United Kingdom:
+        ISO 3166-1 Alpha-2: GB
+        AdministrativeDivision:
+    United States:
+        ISO 3166-1 Alpha-2: US
+        AdministrativeDivision:
+    United States Minor Outlying Islands:
+        ISO 3166-1 Alpha-2: UM
+        AdministrativeDivision:
+    Uruguay:
+        ISO 3166-1 Alpha-2: UY
+        AdministrativeDivision:
+    Uzbekistan:
+        ISO 3166-1 Alpha-2: UZ
+        AdministrativeDivision:
+    Vanuatu:
+        ISO 3166-1 Alpha-2: VU
+        AdministrativeDivision:
+    Venezuela, Bolivarian Republic of:
+        ISO 3166-1 Alpha-2: VE
+        AdministrativeDivision:
+    Viet Nam:
+        ISO 3166-1 Alpha-2: VN
+        AdministrativeDivision:
+    Virgin Islands, British:
+        ISO 3166-1 Alpha-2: VG
+        AdministrativeDivision:
+    Virgin Islands, U.S.:
+        ISO 3166-1 Alpha-2: VI
+        AdministrativeDivision:
+    Wallis and Futuna:
+        ISO 3166-1 Alpha-2: WF
+        AdministrativeDivision:
+    Western Sahara:
+        ISO 3166-1 Alpha-2: EH
+        AdministrativeDivision:
+    Yemen:
+        ISO 3166-1 Alpha-2: YE
+        AdministrativeDivision:
+    Zambia:
+        ISO 3166-1 Alpha-2: ZM
+        AdministrativeDivision:
+    Zimbabwe:
+        ISO 3166-1 Alpha-2: ZW
+        AdministrativeDivision:
+            Bulawayo:
+                ISO 3166-1 Alpha-2: BU  
+            Harare:
+                ISO 3166-1 Alpha-2: HA  
+            Manicaland:
+                ISO 3166-1 Alpha-2: MA  
+            Mashonaland Central:
+                ISO 3166-1 Alpha-2: MC  
+            Mashonaland East:
+                ISO 3166-1 Alpha-2: ME
+            Midlands:
+                ISO 3166-1 Alpha-2: MI 
+            Matabeleland North:
+                ISO 3166-1 Alpha-2: MN
+            Matabeleland South:
+                ISO 3166-1 Alpha-2: MS
+            Masvingo:
+                ISO 3166-1 Alpha-2: MV
+            Mashonaland West:
+                ISO 3166-1 Alpha-2: MW
