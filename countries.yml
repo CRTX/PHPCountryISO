@@ -219,6 +219,87 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: BR
         AdministrativeDivision:
+            Distrito Federal:
+                Code:
+                    ISO 3166-2: DF
+            Acre:
+                Code:
+                    ISO 3166-2: AC
+            Alagoas:
+                Code:
+                    ISO 3166-2: AL
+            Amapá:
+                Code:
+                    ISO 3166-2: AP
+            Amazonas:
+                Code:
+                    ISO 3166-2: AM
+            Bahia:
+                Code:
+                    ISO 3166-2: BA
+            Ceará:
+                Code:
+                    ISO 3166-2: CE
+            Espírito Santo:
+                Code:
+                    ISO 3166-2: ES
+            Goiás:
+                Code:
+                    ISO 3166-2: GO
+            Maranhão:
+                Code:
+                    ISO 3166-2: MA
+            Mato Grosso:
+                Code:
+                    ISO 3166-2: MT
+            Mato Grosso do Sul:
+                Code:
+                    ISO 3166-2: MS
+            Minas Gerais:
+                Code:
+                    ISO 3166-2: MG
+            Pará:
+                Code:
+                    ISO 3166-2: PA
+            Paraíba:
+                Code:
+                    ISO 3166-2: PB
+            Paraná:
+                Code:
+                    ISO 3166-2: PR
+            Pernambuco:
+                Code:
+                    ISO 3166-2: PE
+            Piauí:
+                Code:
+                    ISO 3166-2: PI
+            Rio de Janeiro:
+                Code:
+                    ISO 3166-2: RJ
+            Rio Grande do Norte:
+                Code:
+                    ISO 3166-2: RN
+            Rio Grande do Sul:
+                Code:
+                    ISO 3166-2: RS
+            Rondônia:
+                Code:
+                    ISO 3166-2: RO
+            Roraima:
+                Code:
+                    ISO 3166-2: RR
+            Santa Catarina:
+                Code:
+                    ISO 3166-2: SC
+            São Paulo:
+                Code:
+                    ISO 3166-2: SP
+            Sergipe:
+                Code:
+                    ISO 3166-2: SE
+            Tocantins:
+                Code:
+                    ISO 3166-2: TO
     British Indian Ocean Territory:
         Code:
             ISO 3166-1 Alpha-2: IO
