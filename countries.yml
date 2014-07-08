@@ -609,6 +609,103 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: MX
         AdministrativeDivision:
+            Aguascalientes:
+                Code:
+                    ISO 3166-1 Alpha-3: AGU
+            Baja California:
+                Code:
+                    ISO 3166-1 Alpha-3: BCN
+            Baja California Sur:
+                Code:
+                    ISO 3166-1 Alpha-3: BCS
+            Campeche:
+                Code:
+                    ISO 3166-1 Alpha-3: CAM
+            Chihuahua:
+                Code:
+                    ISO 3166-1 Alpha-3: CHH
+            Chiapas:
+                Code:
+                    ISO 3166-1 Alpha-3: CHP
+            Coahuila:
+                Code:
+                    ISO 3166-1 Alpha-3: COA
+            Colima:
+                Code:
+                    ISO 3166-1 Alpha-3: COL
+            Distrito Federal:
+                Code:
+                    ISO 3166-1 Alpha-3: DIF
+            Durango:
+                Code:
+                    ISO 3166-1 Alpha-3: DUR
+            Guerrero:
+                Code:
+                    ISO 3166-1 Alpha-3: GRO
+            Guanajuato:
+                Code:
+                    ISO 3166-1 Alpha-3: GUA
+            Hidalgo:
+                Code:
+                    ISO 3166-1 Alpha-3: HID
+            Jalisco:
+                Code:
+                    ISO 3166-1 Alpha-3: JAL
+            México:
+                Code:
+                    ISO 3166-1 Alpha-3: MEX
+            Michoacán:
+                Code:
+                    ISO 3166-1 Alpha-3: MIC
+            Morelos:
+                Code:
+                    ISO 3166-1 Alpha-3: MOR
+            Nayarit:
+                Code:
+                    ISO 3166-1 Alpha-3: NAY
+            Nuevo León:
+                Code:
+                    ISO 3166-1 Alpha-3: NLE
+            Oaxaca:
+                Code:
+                    ISO 3166-1 Alpha-3: OAX
+            Puebla:
+                Code:
+                    ISO 3166-1 Alpha-3: PUE
+            Querétaro:
+                Code:
+                    ISO 3166-1 Alpha-3: QUE
+            Quintana Roo:
+                Code:
+                    ISO 3166-1 Alpha-3: ROO
+            Sinaloa:
+                Code:
+                    ISO 3166-1 Alpha-3: SIN
+            San Luis Potosí:
+                Code:
+                    ISO 3166-1 Alpha-3: SLP
+            Sonora:
+                Code:
+                    ISO 3166-1 Alpha-3: SON
+            Tabasco:
+                Code:
+                    ISO 3166-1 Alpha-3: TAB
+            Tamaulipas:
+                Code:
+                    ISO 3166-1 Alpha-3: TAM
+            Tlaxcala:
+                Code:
+                    ISO 3166-1 Alpha-3: TLA
+            Veracruz:
+                Code:
+                    ISO 3166-1 Alpha-3: VER
+            Yucatán:
+                Code:
+                    ISO 3166-1 Alpha-3: YUC
+            Zacatecas:
+                Code:
+                    ISO 3166-1 Alpha-3: ZAC
+
     Micronesia, Federated States of:
         Code:
             ISO 3166-1 Alpha-2: FM
