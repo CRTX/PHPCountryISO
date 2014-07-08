@@ -123,6 +123,30 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: AU
         AdministrativeDivision:
+            New South Wales:
+                Code:
+                    ISO 3166-2: NSW
+            Queensland:
+                Code:
+                    ISO 3166-2: QLD
+            South Australia:
+                Code:
+                    ISO 3166-2: SA
+            Tasmania:
+                Code:
+                    ISO 3166-2: TAS
+            Victoria:
+                Code:
+                    ISO 3166-2: VIC
+            Western Australia:
+                Code:
+                    ISO 3166-2: WA
+            Australian Capital Territory:
+                Code:
+                    ISO 3166-2: ACT
+            Northern Territory:
+                Code:
+                    ISO 3166-2: NT
     Austria:
         Code:
             ISO 3166-1 Alpha-2: AT
