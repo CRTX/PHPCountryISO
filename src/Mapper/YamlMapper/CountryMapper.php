@@ -6,18 +6,56 @@ use CRTX\CountryISO\Entity\Country;
 
 class CountryMapper extends AbstractYamlMapper
 {
-    public function getAll()
+    public function getAll(array $unmappedArray = array())
     {
-        $array = array();
-        foreach($this->array as $countryArray => $countryNameArray) {
-            foreach($countryNameArray as $countryName => $countryParameterArray) {
-                $Country = new Country();
-                $Country->setName($countryName);
-                $Country->setCode($countryParameterArray['ISO 3166-1 Alpha-2']);
-                array_push($array, $Country);
-            }
+        if (!empty($unmappedArray))
+        {
+            $this->unmappedArray = $unmappedArray;
         }
 
-        return $array;
+        foreach ($this->unmappedArray as $countryArray => $countryNameArray) {
+            $this->Entity = $this->mapCountry($countryNameArray);
+        }
+
+        return $this->mappedEntity;
+    }
+
+    protected function mapCountry(array $countryNameArray)
+    {
+        foreach ($countryNameArray as $countryName => $countryParameterArray) {
+            $this->Entity = new Country();
+            $this->Entity->setName($countryName);
+            $this->Entity->setCode($countryParameterArray['ISO 3166-1 Alpha-2']);
+            $this->mapDivision($countryParameterArray);
+            array_push($this->mappedEntity, $this->Entity);
+        }
+    }
+
+    protected function mapDivision(array $countryParameterArray)
+    {
+        if (!array_key_exists('AdministrativeDivision', $countryParameterArray)) {
+            return false;
+        }
+
+        $AdministrativeDivisionArray = 
+            $countryParameterArray['AdministrativeDivision'];
+
+        if ( !is_array($AdministrativeDivisionArray)) {
+            return false;
+        }
+
+        foreach
+        (
+            $AdministrativeDivisionArray
+            as $divisionName => $divisionProperty
+        )
+        {
+            $AdministrativeDivision = $this->EntityFactory
+                ->build('AdministrativeDivision');
+            $AdministrativeDivision->setName($divisionName);
+            $AdministrativeDivision
+                ->setCode($divisionProperty['ISO 3166-1 Alpha-2']);
+            $this->Entity->add($AdministrativeDivision);
+        }
     }
 }
