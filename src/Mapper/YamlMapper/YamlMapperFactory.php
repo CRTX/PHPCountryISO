@@ -38,7 +38,11 @@ class YamlMapperFactory extends AbstractFactory
 
     protected function validYamlArguments(array & $arguments)
     {
-        if (!empty($arguments) && is_array($arguments) && file_exists($arguments[0])) {
+        if(!is_array($arguments) {
+            return false;
+        }
+
+        if (!empty($arguments) && file_exists($arguments[0])) {
             return true;
         }
         return false;
