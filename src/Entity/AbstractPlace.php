@@ -29,8 +29,11 @@ abstract class AbstractPlace implements PlaceInterface
         $this->code = $string;
     }
 
-    public function getCode()
+    public function getCode($key = null)
     {
+        if (!empty($key) && is_string($key)) {
+            return $this->code[$key];
+        }
         return $this->code;
     }
 
