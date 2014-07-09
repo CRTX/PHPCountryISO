@@ -6,6 +6,8 @@ abstract class AbstractFactory
 {
     protected $namespace;
 
+    abstract protected function setNamespace();
+
     public function __construct()
     {
         $this->setNamespace();
@@ -13,9 +15,14 @@ abstract class AbstractFactory
 
     public function build($string, array $arguments = array())
     {
+        $this->modifyBuildArguments($arguments);
         $reflection = new \ReflectionClass($this->namespace . $string);
-        return $reflection->newInstanceArgs($arguments);
+        return $reflection->newInstanceArgs($this->buildArguments);
     }
 
-    abstract protected function setNamespace();
+    protected function modifyBuildArguments($arguments)
+    {
+        $this->buildArguments = $arguments;
+    }
+
 }
