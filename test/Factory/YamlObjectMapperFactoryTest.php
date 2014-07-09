@@ -5,10 +5,18 @@ use Symfony\Component\Yaml\Parser;
 
 class YamlMapperFactoryTest extends \PHPUnit_Framework_TestCase
 {
-    public function testYamlInstantiation()
+    public function testInstantiation()
     {
         $Factory = new YamlMapperFactory();
-        $CountryMapper = $Factory->build('CountryMapper', array(__DIR__ . '/../../countries.yml'));
-        $this->assertInstanceOf('CRTX\\CountryISO\\Mapper\\YamlMapper\\CountryMapper', $CountryMapper);
+        $CountryMapper = $Factory
+            ->build(
+                'CountryMapper',
+                array()
+        );
+        $this->assertInstanceOf(
+            'CRTX\\CountryISO\\Mapper\\YamlMapper\\CountryMapper',
+            $CountryMapper
+        );
     }
+
 }

@@ -8,11 +8,17 @@ class CountryMapperTest extends \PHPUnit_Framework_TestCase
 {
     public function testCountryMapping()
     {
-        $EntityFactory = new EntityFactory();
-        $MapperFactory = new YamlMapperFactory($EntityFactory);
-        $CountryMapper = $MapperFactory->build('CountryMapper', array(__DIR__ . '/../../countries.yml'));
-        $Country = $EntityFactory->build('Country');
-        $all = $CountryMapper->getAll();
-        var_dump($all);
+        $Factory = new YamlMapperFactory();
+        $yamlArrayMock = array(
+            'Country' => array(
+                'United States' => null)
+        );
+        $CountryMapper = $Factory
+            ->build(
+                'CountryMapper',
+                array($yamlArrayMock)
+        );
+        $Country = $CountryMapper->getAll()[0];
+        $this->assertEquals($Country->getName(), 'United States');
     }
 }
