@@ -54,7 +54,12 @@ class CountryMapper extends AbstractYamlMapper
                 ->build('AdministrativeDivision');
             $AdministrativeDivision->setName($divisionName);
 
-            if (is_array($divisionProperty) && array_key_exists('Code', $divisionProperty)) {
+            if
+            (
+                is_array($divisionProperty) &&
+                array_key_exists('Code', $divisionProperty)
+            )
+            {
                     $AdministrativeDivision
                         ->setCode(
                             $divisionProperty['Code']
