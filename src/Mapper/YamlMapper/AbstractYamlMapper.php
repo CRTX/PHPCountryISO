@@ -16,19 +16,4 @@ class AbstractYamlMapper
         $this->EntityFactory = $EntityFactory;
         $this->unmappedArray = $array;
     }
-
-    protected function hasKeys($array, array $keys)
-    {
-        if (!is_array($array) || empty($array)) {
-            return false;
-        }
-
-        foreach ($keys as $key => $keyName) {
-            if (!array_key_exists($keyName, $array)){
-                return false;
-            }
-        }
-
-        return true;
-    }
 }
