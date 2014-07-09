@@ -31,9 +31,18 @@ class CountryMapper extends AbstractYamlMapper
         }
     }
 
-    protected function mapDivision(array $countryParameterArray)
+    protected function mapDivision($countryParameterArray = array())
     {
-        if (!array_key_exists('AdministrativeDivision', $countryParameterArray)) {
+        if
+        (
+            is_array($countryParameterArray) &&
+            !array_key_exists
+            (
+                'AdministrativeDivision',
+                $countryParameterArray
+            )
+        )
+        {
             return false;
         }
 
