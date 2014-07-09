@@ -1598,6 +1598,699 @@ Country:
         Code:
             ISO 3166-1 Alpha-2: GB
         AdministrativeDivision:
+            Buckinghamshire:
+                Code:
+                    ISO 3166-2: BKM
+            Cambridgeshire:
+                Code:
+                    ISO 3166-2: CAM
+            Cumbria:
+                Code:
+                    ISO 3166-2: CMA
+            Derbyshire:
+                Code:
+                    ISO 3166-2: DBY
+            Devon:
+                Code:
+                    ISO 3166-2: DEV
+            Dorset:
+                Code:
+                    ISO 3166-2: DOR
+            East Sussex:
+                Code:
+                    ISO 3166-2: ESX
+            Essex:
+                Code:
+                    ISO 3166-2: ESS
+            Gloucestershire:
+                Code:
+                    ISO 3166-2: GLS
+            Hampshire:
+                Code:
+                    ISO 3166-2: HAM
+            Hertfordshire:
+                Code:
+                    ISO 3166-2: HRT
+            Kent:
+                Code:
+                    ISO 3166-2: KEN
+            Lancashire:
+                Code:
+                    ISO 3166-2: LAN
+            Leicestershire:
+                Code:
+                    ISO 3166-2: LEC
+            Lincolnshire:
+                Code:
+                    ISO 3166-2: LIN
+            Norfolk:
+                Code:
+                    ISO 3166-2: NFK
+            North Yorkshire:
+                Code:
+                    ISO 3166-2: NYK
+            Northamptonshire:
+                Code:
+                    ISO 3166-2: NTH
+            Nottinghamshire:
+                Code:
+                    ISO 3166-2: NTT
+            Oxfordshire:
+                Code:
+                    ISO 3166-2: OXF
+            Somerset:
+                Code:
+                    ISO 3166-2: SOM
+            Staffordshire:
+                Code:
+                    ISO 3166-2: STS
+            Suffolk:
+                Code:
+                    ISO 3166-2: SFK
+            Surrey:
+                Code:
+                    ISO 3166-2: SRY
+            Warwickshire:
+                Code:
+                    ISO 3166-2: WAR
+            West Sussex:
+                Code:
+                    ISO 3166-2: WSX
+            Worcestershire:
+                Code:
+                    ISO 3166-2: WOR
+            Barking and Dagenham:
+                Code:
+                    ISO 3166-2: BDG
+            Barnet:
+                Code:
+                    ISO 3166-2: BNE
+            Bexley:
+                Code:
+                    ISO 3166-2: BEX
+            Brent:
+                Code:
+                    ISO 3166-2: BEN
+            Bromley:
+                Code:
+                    ISO 3166-2: BRY
+            Camden:
+                Code:
+                    ISO 3166-2: CMD
+            Croydon:
+                Code:
+                    ISO 3166-2: CRY
+            Ealing:
+                Code:
+                    ISO 3166-2: EAL
+            Enfield:
+                Code:
+                    ISO 3166-2: ENF
+            Greenwich:
+                Code:
+                    ISO 3166-2: GRE
+            Hackney:
+                Code:
+                    ISO 3166-2: HCK
+            Hammersmith and Fulham:
+                Code:
+                    ISO 3166-2: HMF
+            Haringey:
+                Code:
+                    ISO 3166-2: HRY
+            Harrow:
+                Code:
+                    ISO 3166-2: HRW
+            Havering:
+                Code:
+                    ISO 3166-2: HAV
+            Hillingdon:
+                Code:
+                    ISO 3166-2: HIL
+            Hounslow:
+                Code:
+                    ISO 3166-2: HNS
+            Islington:
+                Code:
+                    ISO 3166-2: ISL
+            Kensington and Chelsea:
+                Code:
+                    ISO 3166-2: KEC
+            Kingston upon Thames:
+                Code:
+                    ISO 3166-2: KTT
+            Lambeth:
+                Code:
+                    ISO 3166-2: LBH
+            Lewisham:
+                Code:
+                    ISO 3166-2: LEW
+            Merton:
+                Code:
+                    ISO 3166-2: MRT
+            Newham:
+                Code:
+                    ISO 3166-2: NWM
+            Redbridge:
+                Code:
+                    ISO 3166-2: RDB
+            Richmond upon Thames:
+                Code:
+                    ISO 3166-2: RIC
+            Southwark:
+                Code:
+                    ISO 3166-2: SWK
+            Sutton:
+                Code:
+                    ISO 3166-2: STN
+            Tower Hamlets:
+                Code:
+                    ISO 3166-2: TWH
+            Waltham Forest:
+                Code:
+                    ISO 3166-2: WFT
+            Wandsworth:
+                Code:
+                    ISO 3166-2: WND
+            Westminster:
+                Code:
+                    ISO 3166-2: WSM
+            Barnsley:
+                Code:
+                    ISO 3166-2: BNS
+            Birmingham:
+                Code:
+                    ISO 3166-2: BIR
+            Bolton:
+                Code:
+                    ISO 3166-2: BOL
+            Bradford:
+                Code:
+                    ISO 3166-2: BRD
+            Bury:
+                Code:
+                    ISO 3166-2: BUR
+            Calderdale:
+                Code:
+                    ISO 3166-2: CLD
+            Coventry:
+                Code:
+                    ISO 3166-2: COV
+            Doncaster:
+                Code:
+                    ISO 3166-2: DNC
+            Dudley:
+                Code:
+                    ISO 3166-2: DUD
+            Gateshead:
+                Code:
+                    ISO 3166-2: GAT
+            Kirklees:
+                Code:
+                    ISO 3166-2: KIR
+            Knowsley:
+                Code:
+                    ISO 3166-2: KWL
+            Leeds:
+                Code:
+                    ISO 3166-2: LDS
+            Liverpool:
+                Code:
+                    ISO 3166-2: LIV
+            Manchester:
+                Code:
+                    ISO 3166-2: MAN
+            Newcastle upon Tyne:
+                Code:
+                    ISO 3166-2: NET
+            North Tyneside:
+                Code:
+                    ISO 3166-2: NTY
+            Oldham:
+                Code:
+                    ISO 3166-2: OLD
+            Rochdale:
+                Code:
+                    ISO 3166-2: RCH
+            Rotherham:
+                Code:
+                    ISO 3166-2: ROT
+            St. Helens:
+                Code:
+                    ISO 3166-2: SHN
+            Salford:
+                Code:
+                    ISO 3166-2: SLF
+            Sandwell:
+                Code:
+                    ISO 3166-2: SAW
+            Sefton:
+                Code:
+                    ISO 3166-2: SFT
+            Sheffield:
+                Code:
+                    ISO 3166-2: SHF
+            Solihull:
+                Code:
+                    ISO 3166-2: SOL
+            South Tyneside:
+                Code:
+                    ISO 3166-2: STY
+            Stockport:
+                Code:
+                    ISO 3166-2: SKP
+            Sunderland:
+                Code:
+                    ISO 3166-2: SND
+            Tameside:
+                Code:
+                    ISO 3166-2: TAM
+            Trafford:
+                Code:
+                    ISO 3166-2: TRF
+            Wakefield:
+                Code:
+                    ISO 3166-2: WKF
+            Walsall:
+                Code:
+                    ISO 3166-2: WLL
+            Wigan:
+                Code:
+                    ISO 3166-2: WGN
+            Wirral:
+                Code:
+                    ISO 3166-2: WRL
+            Wolverhampton:
+                Code:
+                    ISO 3166-2: WLV
+            Bath and North East Somerset:
+                Code:
+                    ISO 3166-2: BAS
+            Blackburn with Darwen:
+                Code:
+                    ISO 3166-2: BBD
+            Bedford:
+                Code:
+                    ISO 3166-2: BDF
+            Blackpool:
+                Code:
+                    ISO 3166-2: BPL
+            Bournemouth:
+                Code:
+                    ISO 3166-2: BMH
+            Bracknell Forest:
+                Code:
+                    ISO 3166-2: BRC
+            Brighton and Hove:
+                Code:
+                    ISO 3166-2: BNH
+            Bristol, City of:
+                Code:
+                    ISO 3166-2: BST
+            Central Bedfordshire:
+                Code:
+                    ISO 3166-2: CBF
+            Cheshire East:
+                Code:
+                    ISO 3166-2: CHE
+            Cheshire West and Chester:
+                Code:
+                    ISO 3166-2: CHW
+            Cornwall:
+                Code:
+                    ISO 3166-2: CON
+            Darlington:
+                Code:
+                    ISO 3166-2: DAL
+            Derby:
+                Code:
+                    ISO 3166-2: DER
+            Durham, County:
+                Code:
+                    ISO 3166-2: DUR
+            East Riding of Yorkshire:
+                Code:
+                    ISO 3166-2: ERY
+            Halton:
+                Code:
+                    ISO 3166-2: HAL
+            Hartlepool:
+                Code:
+                    ISO 3166-2: HPL
+            Herefordshire:
+                Code:
+                    ISO 3166-2: HEF
+            Isle of Wight:
+                Code:
+                    ISO 3166-2: IOW
+            Kingston upon Hull:
+                Code:
+                    ISO 3166-2: KHL
+            Leicester:
+                Code:
+                    ISO 3166-2: LCE
+            Luton:
+                Code:
+                    ISO 3166-2: LUT
+            Medway:
+                Code:
+                    ISO 3166-2: MDW
+            Middlesbrough:
+                Code:
+                    ISO 3166-2: MDB
+            Milton Keynes:
+                Code:
+                    ISO 3166-2: MIK
+            North East Lincolnshire:
+                Code:
+                    ISO 3166-2: NEL
+            North Lincolnshire:
+                Code:
+                    ISO 3166-2: NLN
+            North Somerset:
+                Code:
+                    ISO 3166-2: NSM
+            Northumberland:
+                Code:
+                    ISO 3166-2: NBL
+            Nottingham:
+                Code:
+                    ISO 3166-2: NGM
+            Peterborough:
+                Code:
+                    ISO 3166-2: PTE
+            Plymouth:
+                Code:
+                    ISO 3166-2: PLY
+            Poole:
+                Code:
+                    ISO 3166-2: POL
+            Portsmouth:
+                Code:
+                    ISO 3166-2: POR
+            Reading:
+                Code:
+                    ISO 3166-2: RDG
+            Redcar and Cleveland:
+                Code:
+                    ISO 3166-2: RCC
+            Rutland:
+                Code:
+                    ISO 3166-2: RUT
+            Shropshire:
+                Code:
+                    ISO 3166-2: SHR
+            Slough:
+                Code:
+                    ISO 3166-2: SLG
+            South Gloucestershire:
+                Code:
+                    ISO 3166-2: SGC
+            Southampton:
+                Code:
+                    ISO 3166-2: STH
+            Southend-on-Sea:
+                Code:
+                    ISO 3166-2: SOS
+            Stockton-on-Tees:
+                Code:
+                    ISO 3166-2: STT
+            Stoke-on-Trent:
+                Code:
+                    ISO 3166-2: STE
+            Swindon:
+                Code:
+                    ISO 3166-2: SWD
+            Telford and Wrekin:
+                Code:
+                    ISO 3166-2: TFW
+            Thurrock:
+                Code:
+                    ISO 3166-2: THR
+            Torbay:
+                Code:
+                    ISO 3166-2: TOB
+            Warrington:
+                Code:
+                    ISO 3166-2: WRT
+            West Berkshire:
+                Code:
+                    ISO 3166-2: WBK
+            Wiltshire:
+                Code:
+                    ISO 3166-2: WIL
+            Windsor and Maidenhead:
+                Code:
+                    ISO 3166-2: WNM
+            Wokingham:
+                Code:
+                    ISO 3166-2: WOK
+            York:
+                Code:
+                    ISO 3166-2: YOR
+            London, City of:
+                Code:
+                    ISO 3166-2: LND
+            Antrim:
+                Code:
+                    ISO 3166-2: ANT
+            Ards:
+                Code:
+                    ISO 3166-2: ARD
+            Armagh:
+                Code:
+                    ISO 3166-2: ARM
+            Ballymena:
+                Code:
+                    ISO 3166-2: BLA
+            Ballymoney:
+                Code:
+                    ISO 3166-2: BLY
+            Banbridge:
+                Code:
+                    ISO 3166-2: BNB
+            Belfast:
+                Code:
+                    ISO 3166-2: BFS
+            Carrickfergus:
+                Code:
+                    ISO 3166-2: CKF
+            Castlereagh:
+                Code:
+                    ISO 3166-2: CSR
+            Coleraine:
+                Code:
+                    ISO 3166-2: CLR
+            Cookstown:
+                Code:
+                    ISO 3166-2: CKT
+            Craigavon:
+                Code:
+                    ISO 3166-2: CGV
+            Derry:
+                Code:
+                    ISO 3166-2: DRY
+            Down:
+                Code:
+                    ISO 3166-2: DOW
+            Dungannon and South Tyrone:
+                Code:
+                    ISO 3166-2: DGN
+            Fermanagh:
+                Code:
+                    ISO 3166-2: FER
+            Larne:
+                Code:
+                    ISO 3166-2: LRN
+            Limavady:
+                Code:
+                    ISO 3166-2: LMV
+            Lisburn:
+                Code:
+                    ISO 3166-2: LSB
+            Magherafelt:
+                Code:
+                    ISO 3166-2: MFT
+            Moyle:
+                Code:
+                    ISO 3166-2: MYL
+            Newry and Mourne District:
+                Code:
+                    ISO 3166-2: NYM
+            Newtownabbey:
+                Code:
+                    ISO 3166-2: NTA
+            North Down:
+                Code:
+                    ISO 3166-2: NDN
+            Omagh:
+                Code:
+                    ISO 3166-2: OMH
+            Strabane:
+                Code:
+                    ISO 3166-2: STB
+            Aberdeen City:
+                Code:
+                    ISO 3166-2: ABE
+            Aberdeenshire:
+                Code:
+                    ISO 3166-2: ABD
+            Angus:
+                Code:
+                    ISO 3166-2: ANS
+            Argyll and Bute:
+                Code:
+                    ISO 3166-2: AGB
+            Clackmannanshire:
+                Code:
+                    ISO 3166-2: CLK
+            Dumfries and Galloway:
+                Code:
+                    ISO 3166-2: DGY
+            Dundee City:
+                Code:
+                    ISO 3166-2: DND
+            East Ayrshire:
+                Code:
+                    ISO 3166-2: EAY
+            East Dunbartonshire:
+                Code:
+                    ISO 3166-2: EDU
+            East Lothian:
+                Code:
+                    ISO 3166-2: ELN
+            East Renfrewshire:
+                Code:
+                    ISO 3166-2: ERW
+            Edinburgh, City of:
+                Code:
+                    ISO 3166-2: EDH
+            Eilean Siar:
+                Code:
+                    ISO 3166-2: ELS
+            Falkirk:
+                Code:
+                    ISO 3166-2: FAL
+            Fife:
+                Code:
+                    ISO 3166-2: FIF
+            Glasgow City:
+                Code:
+                    ISO 3166-2: GLG
+            Highland:
+                Code:
+                    ISO 3166-2: HLD
+            Inverclyde:
+                Code:
+                    ISO 3166-2: IVC
+            Midlothian:
+                Code:
+                    ISO 3166-2: MLN
+            Moray:
+                Code:
+                    ISO 3166-2: MRY
+            North Ayrshire:
+                Code:
+                    ISO 3166-2: NAY
+            North Lanarkshire:
+                Code:
+                    ISO 3166-2: NLK
+            Orkney Islands:
+                Code:
+                    ISO 3166-2: ORK
+            Perth and Kinross:
+                Code:
+                    ISO 3166-2: PKN
+            Renfrewshire:
+                Code:
+                    ISO 3166-2: RFW
+            Scottish Borders, The:
+                Code:
+                    ISO 3166-2: SCB
+            Shetland Islands:
+                Code:
+                    ISO 3166-2: ZET
+            South Ayrshire:
+                Code:
+                    ISO 3166-2: SAY
+            South Lanarkshire:
+                Code:
+                    ISO 3166-2: SLK
+            Stirling:
+                Code:
+                    ISO 3166-2: STG
+            West Dunbartonshire:
+                Code:
+                    ISO 3166-2: WDU
+            West Lothian:
+                Code:
+                    ISO 3166-2: WLN
+            Blaenau Gwent:
+                Code:
+                    ISO 3166-2: BGW
+            Bridgend:
+                Code:
+                    ISO 3166-2: BGE
+            Caerphilly:
+                Code:
+                    ISO 3166-2: CAY
+            Cardiff:
+                Code:
+                    ISO 3166-2: CRF
+            Carmarthenshire:
+                Code:
+                    ISO 3166-2: CMN
+            Ceredigion:
+                Code:
+                    ISO 3166-2: CGN
+            Conwy:
+                Code:
+                    ISO 3166-2: CWY
+            Denbighshire:
+                Code:
+                    ISO 3166-2: DEN
+            Flintshire:
+                Code:
+                    ISO 3166-2: FLN
+            Gwynedd:
+                Code:
+                    ISO 3166-2: GWN
+            Isle of Anglesey:
+                Code:
+                    ISO 3166-2: AGY
+            Merthyr Tydfil:
+                Code:
+                    ISO 3166-2: MTY
+            Monmouthshire:
+                Code:
+                    ISO 3166-2: MON
+            Neath Port Talbot:
+                Code:
+                    ISO 3166-2: NTL
+            Newport:
+                Code:
+                    ISO 3166-2: NWP
+            Pembrokeshire:
+                Code:
+                    ISO 3166-2: PEM
+            Powys:
+                Code:
+                    ISO 3166-2: POW
+            Rhondda, Cynon, Taff:
+                Code:
+                    ISO 3166-2: RCT
+            Swansea:
+                Code:
+                    ISO 3166-2: SWA
+            Torfaen:
+                Code:
+                    ISO 3166-2: TOF
+            Vale of Glamorgan, The:
+                Code:
+                    ISO 3166-2: VGL
+            Wrexham:
+                Code:
+                    ISO 3166-2: WRX
     United States:
         Code:
             ISO 3166-1 Alpha-2: US
