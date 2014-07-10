@@ -1,11 +1,11 @@
 <?php
 
-namespace CRTX\CountryISO\Mapper\YamlMapper;
+namespace CRTX\CountryISO\Mapper\ArrayMapper;
 
 use CRTX\CountryISO\Factory\AbstractFactory;
 use CRTX\CountryISO\Entity\EntityFactory;
 
-class YamlMapperFactory extends AbstractFactory
+class MapperFactory extends AbstractFactory
 {
     protected $EntityFactory;
     protected $buildArguments;
@@ -18,7 +18,7 @@ class YamlMapperFactory extends AbstractFactory
 
     protected function setNamespace()
     {
-        $this->namespace = 'CRTX\\CountryISO\\Mapper\\YamlMapper\\';
+        $this->namespace = 'CRTX\\CountryISO\\Mapper\\ArrayMapper\\';
     }
 
     protected function modifyBuildArguments($arguments)

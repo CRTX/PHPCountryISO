@@ -1,10 +1,10 @@
 <?php
 
-namespace CRTX\CountryISO\Mapper\YamlMapper;
+namespace CRTX\CountryISO\Mapper\ArrayMapper;
 
 use CRTX\CountryISO\Entity\Country;
 
-class CountryMapper extends AbstractYamlMapper
+class CountryISOMapper extends AbstractEntityMapper
 {
     public function getAll(array $unmappedArray = array())
     {

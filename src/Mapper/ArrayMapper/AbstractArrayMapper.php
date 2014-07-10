@@ -1,10 +1,10 @@
 <?php
 
-namespace CRTX\CountryISO\Mapper\YamlMapper;
+namespace CRTX\CountryISO\Mapper\ArrayMapper;
 
 use CRTX\CountryISO\Entity\EntityFactory;
 
-class AbstractYamlMapper
+class AbstractArrayMapper
 {
     protected $unmappedArray = array();
     protected $EntityFactory;
