@@ -5,6 +5,7 @@ namespace CRTX\CountryISO\Factory;
 abstract class AbstractFactory
 {
     protected $namespace;
+    protected $buildArguments;
 
     abstract protected function setNamespace();
 

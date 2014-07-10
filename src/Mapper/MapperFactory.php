@@ -8,7 +8,6 @@ use CRTX\CountryISO\Entity\EntityFactory;
 class MapperFactory extends AbstractFactory
 {
     protected $EntityFactory;
-    protected $buildArguments;
 
     public function __construct(EntityFactory $EntityFactory = null)
     {
@@ -18,7 +17,7 @@ class MapperFactory extends AbstractFactory
 
     protected function setNamespace()
     {
-        $this->namespace = 'CRTX\\CountryISO\\Mapper\\ArrayMapper\\';
+        $this->namespace = 'CRTX\\CountryISO\\Mapper\\';
     }
 
     protected function modifyBuildArguments($arguments)
