@@ -1,6 +1,6 @@
 <?php
 
-namespace CRTX\CountryISO\Mapper\ArrayMapper;
+namespace CRTX\CountryISO\Mapper;
 
 use CRTX\CountryISO\Factory\AbstractFactory;
 use CRTX\CountryISO\Entity\EntityFactory;
