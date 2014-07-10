@@ -4,7 +4,7 @@ namespace CRTX\CountryISO\Mapper\ArrayMapper;
 
 use CRTX\CountryISO\Entity\Country;
 
-class CountryISOMapper extends AbstractEntityMapper
+class CountryISOMapper extends AbstractArrayMapper
 {
     public function getAll(array $unmappedArray = array())
     {
